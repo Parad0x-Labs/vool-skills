@@ -1,0 +1,2 @@
+# Packages are exact bytes: their checksum is what gets checked and signed.
+packages/*.vool.json -text -diff
