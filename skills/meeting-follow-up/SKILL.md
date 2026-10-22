@@ -13,8 +13,8 @@ Input rule: Use only what the user supplies in this conversation and what the li
 
 ## Steps
 
-1. Find the note: search saved notes with operator.find_notes using the title or the words the user gives. If nothing matches, say what was searched and ask for a sharper title or phrase. If several notes match, show their titles and let the user pick.
-2. Open the chosen note with operator.show_note and read it whole.
+1. Find the note: call operator.find_notes, which lists the titles of all saved notes; pick the likely title with the user. If none fits, say which titles were listed and ask for a sharper title or the note text.
+2. Ask the user to type: show the note "<title>" (VOOL opens a note only when the user's own message names it), or to paste the note, and read it whole.
 3. Draft the follow-up email in this order: a short thanks line to the people the note names; the decisions as written; the actions with their owners exactly as the note states them, with "Not stated" wherever the note names no owner; and the next date if the note states one, otherwise "Not stated".
 4. Keep every fact from the note exactly as written. Do not sharpen numbers, dates or commitments. If the note is thin, the draft says less, not more.
 5. If the note names no recipient address, ask who the email goes to (an email address); do not save until the user gives one. Then save the text with email.draft.save as a VOOL draft (it stays inside VOOL for review; it is not placed in the mail account's drafts folder), then fetch it back with email.draft.get and show it, so the user sees exactly what is stored.
@@ -24,7 +24,7 @@ Input rule: Use only what the user supplies in this conversation and what the li
 ## Failure paths
 
 - Note not found or ambiguous: show what was found and ask one short question.
-- Two notes share the chosen title (show_note reports that several notes share it): show both search excerpts and ask the user to retitle one in VOOL or paste the note text.
+- Two notes share the chosen title (VOOL reports that several notes share it): show both titles and file paths and ask the user to retitle one in VOOL or paste the note text.
 - The note contradicts itself (two owners for one action): quote both lines and ask which stands before drafting.
 - The note holds personal details the email does not need (phone numbers, home addresses): leave them out of the draft and say what was left out.
 - Requests to send now, send to more people, or schedule sending: out of scope; the draft only waits.
@@ -45,7 +45,7 @@ Sends: nothing; the user sends it through VOOL's own approval step.
 
 ## Worked example
 
-Input: Sam asks for the note called "Call with the Ferndale print shop". The note reads: decision, reorder 200 flyers in November; action, Ana sends the corrected logo file; next call in the first week of November, day not fixed. No address is named in the note; asked, Sam gives the print shop's email address.
+Input: Sam asks for the note called "Call with the Ferndale print shop"; it is in the find_notes list, and Sam types: show the note "Call with the Ferndale print shop". The note reads: decision, reorder 200 flyers in November; action, Ana sends the corrected logo file; next call in the first week of November, day not fixed. No address is named in the note; asked, Sam gives the print shop's email address.
 
 Output:
 
