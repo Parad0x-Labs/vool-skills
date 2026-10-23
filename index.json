@@ -8,7 +8,7 @@
    "folder": "skills/account-safety-plan",
    "title": "Account safety plan",
    "summary": "Make a simple plan to secure your important accounts: sign-in checks, recovery and backups.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "privacy-security",
    "category_label": "Privacy & security",
    "subcategory": "account-safety",
@@ -20,15 +20,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/account-safety-plan.vool.json",
-   "package_sha256": "676fc76196d4d5457b59619143addcf4fdc4a59d6bbae236c30bad2073ca7a95",
-   "package_bytes": 9316
+   "package_sha256": "83d87d31f6f12fae347b63e3fd2b21412c1946e3946ed021cb519b5a1436b7d5",
+   "package_bytes": 671736,
+   "icon": "skills/account-safety-plan/assets/icon.png",
+   "banner": "skills/account-safety-plan/assets/banner.png"
   },
   {
    "id": "vool-team/bill-explainer",
    "folder": "skills/bill-explainer",
    "title": "Bill explainer",
    "summary": "Explain a bill or statement you paste, line by line, and flag charges worth asking about.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "personal-home",
    "category_label": "Personal & home",
    "subcategory": "paperwork-admin",
@@ -40,15 +42,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/bill-explainer.vool.json",
-   "package_sha256": "c322a3fe0a52f2ac3fe715cf7f0eacffa9e69751c862e2e030b6280f709ce2a5",
-   "package_bytes": 9412
+   "package_sha256": "642aeec663206504ee65bafeef047d8667777f9d1ccad93e879020c150fa770b",
+   "package_bytes": 537084,
+   "icon": "skills/bill-explainer/assets/icon.png",
+   "banner": "skills/bill-explainer/assets/banner.png"
   },
   {
    "id": "vool-team/blog-post-builder",
    "folder": "skills/blog-post-builder",
    "title": "Blog post builder",
    "summary": "Turn your points and notes into a structured blog post: outline first, then a full draft in your voice.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "writing",
    "category_label": "Writing",
    "subcategory": "articles-blogs",
@@ -60,15 +64,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/blog-post-builder.vool.json",
-   "package_sha256": "1f23e16df01e03643cd0c7694b9bdf7a9fe5b6266785b879a85224d9807f43f7",
-   "package_bytes": 8655
+   "package_sha256": "ecb76c9fbcd9e7b92b83e30783c79dd07c8a5f122c367ae18ee1baa923c7a764",
+   "package_bytes": 696415,
+   "icon": "skills/blog-post-builder/assets/icon.png",
+   "banner": "skills/blog-post-builder/assets/banner.png"
   },
   {
    "id": "vool-team/brand-kit-ideas",
    "folder": "skills/brand-kit-ideas",
    "title": "Brand kit ideas",
    "summary": "Get name, colour, type and mood ideas for your brand or project from a short brief.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "creative",
    "category_label": "Creative",
    "subcategory": "design-ideas",
@@ -80,15 +86,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/brand-kit-ideas.vool.json",
-   "package_sha256": "8b713e9335825306a0acf1f17ef50a1f9920c60c0fb03b1e7296511210997be4",
-   "package_bytes": 8474
+   "package_sha256": "cd3946aebed7662e6e5a180bd0b97e828d22e9129acb4967c42e35576991ef0a",
+   "package_bytes": 570090,
+   "icon": "skills/brand-kit-ideas/assets/icon.png",
+   "banner": "skills/brand-kit-ideas/assets/banner.png"
   },
   {
    "id": "vool-team/budget-from-spending",
    "folder": "skills/budget-from-spending",
    "title": "Budget from spending",
    "summary": "Sort the spending you paste into categories and suggest a simple monthly budget.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "money-crypto",
    "category_label": "Money & crypto",
    "subcategory": "budgeting",
@@ -100,15 +108,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/budget-from-spending.vool.json",
-   "package_sha256": "1b2015439a66180ab8d708fdfdd26da7e8f2b2e7a4cd225c761de38096cf043a",
-   "package_bytes": 9044
+   "package_sha256": "ee6887a5e2b770d44b0664f282097aaeab7aa07fc48ef19025856fdbf313d587",
+   "package_bytes": 524356,
+   "icon": "skills/budget-from-spending/assets/icon.png",
+   "banner": "skills/budget-from-spending/assets/banner.png"
   },
   {
    "id": "vool-team/bug-report-writer",
    "folder": "skills/bug-report-writer",
    "title": "Bug report writer",
    "summary": "Turn a problem description and error output into a clear, reproducible bug report.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "coding",
    "category_label": "Coding",
    "subcategory": "debugging",
@@ -120,15 +130,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/bug-report-writer.vool.json",
-   "package_sha256": "17475322b1a85aab9f0339d7685b91b772751e3edfa36e1cc91cae4c073074e8",
-   "package_bytes": 7780
+   "package_sha256": "7fc34ef3a9ee91deeb39617221a7e9fcb5f0e67fb58d31429c048e6aa3f07a33",
+   "package_bytes": 677088,
+   "icon": "skills/bug-report-writer/assets/icon.png",
+   "banner": "skills/bug-report-writer/assets/banner.png"
   },
   {
    "id": "vool-team/build-log-reader",
    "folder": "skills/build-log-reader",
    "title": "Build log reader",
    "summary": "Read a build or deploy log you paste and explain where and why it failed.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "coding",
    "category_label": "Coding",
    "subcategory": "scripts-devops",
@@ -140,15 +152,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/build-log-reader.vool.json",
-   "package_sha256": "ce472026834d0e9267e6f6ae675cc411bed4dedc85f192b17d4ae762454986b9",
-   "package_bytes": 8412
+   "package_sha256": "dc5a75fa2bba8e717684a42332e35c03e80925263afe4f8491dae779200d4a80",
+   "package_bytes": 624468,
+   "icon": "skills/build-log-reader/assets/icon.png",
+   "banner": "skills/build-log-reader/assets/banner.png"
   },
   {
    "id": "vool-team/buying-checklist",
    "folder": "skills/buying-checklist",
    "title": "Buying checklist",
    "summary": "Work out what matters for a purchase and compare the options you are considering.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "personal-home",
    "category_label": "Personal & home",
    "subcategory": "shopping",
@@ -160,15 +174,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/buying-checklist.vool.json",
-   "package_sha256": "b0d09d357fd1e9fd13cf5a74c53fd85bd475c5741d1748b5b7e5168cba6cb1a5",
-   "package_bytes": 9661
+   "package_sha256": "125c729adafdf1a5b3dff4d258cd4ea278d1817b8f80f94d35edb9587df5f526",
+   "package_bytes": 587869,
+   "icon": "skills/buying-checklist/assets/icon.png",
+   "banner": "skills/buying-checklist/assets/banner.png"
   },
   {
    "id": "vool-team/chart-picker",
    "folder": "skills/chart-picker",
    "title": "Chart picker",
    "summary": "Suggest the clearest chart for your data and question, and how to label it.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "data-analysis",
    "category_label": "Data & analysis",
    "subcategory": "charts",
@@ -180,15 +196,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/chart-picker.vool.json",
-   "package_sha256": "e6500c7ace46f53d2ad9cb037a30cf5f096aa1bbc14a7a4c356b3e9473de9470",
-   "package_bytes": 7873
+   "package_sha256": "4c454fb22372ee5f6a9afc908c5906930856f3250cabc037cf65f33b12e498fb",
+   "package_bytes": 500445,
+   "icon": "skills/chart-picker/assets/icon.png",
+   "banner": "skills/chart-picker/assets/banner.png"
   },
   {
    "id": "vool-team/chore-rota",
    "folder": "skills/chore-rota",
    "title": "Chore rota",
    "summary": "Share household chores fairly across the people and days you list.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "personal-home",
    "category_label": "Personal & home",
    "subcategory": "family-home",
@@ -200,15 +218,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/chore-rota.vool.json",
-   "package_sha256": "7b6bf3a085e1056e27b479b80a8a6aabff8a73c05cc4f035de39ce8974d4e37b",
-   "package_bytes": 8193
+   "package_sha256": "bf2a4e7da14514079aa2c54eac832c6ab2ed8ff6bba43bd9aafb07e3af5de89e",
+   "package_bytes": 565173,
+   "icon": "skills/chore-rota/assets/icon.png",
+   "banner": "skills/chore-rota/assets/banner.png"
   },
   {
    "id": "vool-team/claim-check",
    "folder": "skills/claim-check",
    "title": "Claim check",
    "summary": "Break a claim or article you paste into checkable statements and what evidence would settle each.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "research-learning",
    "category_label": "Research & learning",
    "subcategory": "fact-checking",
@@ -220,15 +240,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/claim-check.vool.json",
-   "package_sha256": "c14c4cddb1c65776b9c26d75724eee3cf7478b0c02485eb96b15ab7922619975",
-   "package_bytes": 8402
+   "package_sha256": "ce8cc405663989bc0c34818351f44d033a4d333a8afefbad0b146f3e518e5cc0",
+   "package_bytes": 520034,
+   "icon": "skills/claim-check/assets/icon.png",
+   "banner": "skills/claim-check/assets/banner.png"
   },
   {
    "id": "vool-team/code-review-notes",
    "folder": "skills/code-review-notes",
    "title": "Code review notes",
    "summary": "Review a code change you paste for bugs, risks and readability, ordered by severity.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "coding",
    "category_label": "Coding",
    "subcategory": "code-review",
@@ -240,15 +262,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/code-review-notes.vool.json",
-   "package_sha256": "2e105291142568b5bafa24646ba378e4f211f5b90984114ca439443a78678f96",
-   "package_bytes": 7812
+   "package_sha256": "4f0ee1bf273ceb4cfdcdbd7b33e69f2a95ecb2468ba86b5cf96647301d5d23ff",
+   "package_bytes": 609168,
+   "icon": "skills/code-review-notes/assets/icon.png",
+   "banner": "skills/code-review-notes/assets/banner.png"
   },
   {
    "id": "vool-team/command-explainer",
    "folder": "skills/command-explainer",
    "title": "Command explainer",
    "summary": "Explain what a terminal command you paste would do, and warn about risky parts.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "automation",
    "category_label": "Automation",
    "subcategory": "system-helpers",
@@ -260,8 +284,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/command-explainer.vool.json",
-   "package_sha256": "f06ca8a6cc0bedbcda2bb289a8e96994093ad3ef0715055d2ab8a9c38f3662ce",
-   "package_bytes": 8022
+   "package_sha256": "f590dffbb71fc799c2118ca3c26204c3da732bcc5c52f74cadc1328f422b886e",
+   "package_bytes": 468722,
+   "icon": "skills/command-explainer/assets/icon.png",
+   "banner": "skills/command-explainer/assets/banner.png"
   },
   {
    "id": "vool-team/contacts-tidy",
@@ -285,15 +311,17 @@
     "Contacts"
    ],
    "package": "packages/contacts-tidy.vool.json",
-   "package_sha256": "8178e768fb8670122452a22d488457c551e9795bed7618b14b8c34869ae4bcf0",
-   "package_bytes": 9447
+   "package_sha256": "53627c39a4c6397b7a152d308409c3625e30274dc6109b96c57e8f2586fd6423",
+   "package_bytes": 551346,
+   "icon": "skills/contacts-tidy/assets/icon.png",
+   "banner": "skills/contacts-tidy/assets/banner.png"
   },
   {
    "id": "vool-team/contract-summary",
    "folder": "skills/contract-summary",
    "title": "Contract summary",
    "summary": "Summarize a contract or agreement you paste in plain words and flag points to ask about.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "business",
    "category_label": "Business",
    "subcategory": "contracts-documents",
@@ -305,15 +333,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/contract-summary.vool.json",
-   "package_sha256": "c4c86275ccd097ab6d19c59ece47b98a0739e6e1b52a3a85897ee3e6df3824de",
-   "package_bytes": 9078
+   "package_sha256": "e9ad5adbbece1380786e22b4fc534795e7d822893181099bc97b4d2f609d8548",
+   "package_bytes": 658014,
+   "icon": "skills/contract-summary/assets/icon.png",
+   "banner": "skills/contract-summary/assets/banner.png"
   },
   {
    "id": "vool-team/cover-letter-writer",
    "folder": "skills/cover-letter-writer",
    "title": "Cover letter writer",
    "summary": "Write a short cover letter from your CV and the job post, in your own voice.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "writing",
    "category_label": "Writing",
    "subcategory": "cv-job-applications",
@@ -325,8 +355,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/cover-letter-writer.vool.json",
-   "package_sha256": "b001ce0ae5c0f3a1db37fe356c0bdcf04d91b7ab375f01a33077b738321db09c",
-   "package_bytes": 8577
+   "package_sha256": "e9fdb84f078ed7aa285e75cc5c1d16232263a4d6010f25d069d47f4836af6ab5",
+   "package_bytes": 702085,
+   "icon": "skills/cover-letter-writer/assets/icon.png",
+   "banner": "skills/cover-letter-writer/assets/banner.png"
   },
   {
    "id": "vool-team/creative-series",
@@ -354,8 +386,10 @@
     "Video"
    ],
    "package": "packages/creative-series.vool.json",
-   "package_sha256": "e458a2be4eca440ce47df86f935210cc5bcd0d087b9fc4204bc532fed5d88c4a",
-   "package_bytes": 9507
+   "package_sha256": "039c79eda1a1e93e97d36a3add703144fc1a19b98e8a8dd0bd5d3caf7e49b04d",
+   "package_bytes": 570178,
+   "icon": "skills/creative-series/assets/icon.png",
+   "banner": "skills/creative-series/assets/banner.png"
   },
   {
    "id": "vool-team/csv-insights",
@@ -382,15 +416,17 @@
     "Sandbox"
    ],
    "package": "packages/csv-insights.vool.json",
-   "package_sha256": "4dfdbdd9a4eca2b35e8d4d1624d302feb99ecd04249efa8eed81c35c43890521",
-   "package_bytes": 8648
+   "package_sha256": "32b715df9d2762326f0731e67c716eb550474e1a66dc4054918c42c8f5e6cbba",
+   "package_bytes": 446431,
+   "icon": "skills/csv-insights/assets/icon.png",
+   "banner": "skills/csv-insights/assets/banner.png"
   },
   {
    "id": "vool-team/customer-reply",
    "folder": "skills/customer-reply",
    "title": "Customer reply",
    "summary": "Draft a calm, helpful answer to a customer message using only facts you provide.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "business",
    "category_label": "Business",
    "subcategory": "customer-support",
@@ -402,15 +438,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/customer-reply.vool.json",
-   "package_sha256": "d0c063be43f6c8ec16bf5f369b71372cb29b80846747908ca5fd0b8286e0e9ce",
-   "package_bytes": 7423
+   "package_sha256": "35b8a035f8ab7e948cfaa6526b34fdf21d4a427b27f306d81b8ca51d99374a65",
+   "package_bytes": 710575,
+   "icon": "skills/customer-reply/assets/icon.png",
+   "banner": "skills/customer-reply/assets/banner.png"
   },
   {
    "id": "vool-team/cv-tailor",
    "folder": "skills/cv-tailor",
    "title": "CV tailor",
    "summary": "Match your CV to a job post: what to highlight, what to reword and what is missing.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "writing",
    "category_label": "Writing",
    "subcategory": "cv-job-applications",
@@ -422,15 +460,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/cv-tailor.vool.json",
-   "package_sha256": "b79dc4918ca557c70ddcf709523599a3f3bffafab9c9fc3f6cc16dab6638a050",
-   "package_bytes": 9256
+   "package_sha256": "4fe1399b4766967d8e63c4cafa5c34a938aa98be35de0eb476796ecdd5ea5f48",
+   "package_bytes": 697748,
+   "icon": "skills/cv-tailor/assets/icon.png",
+   "banner": "skills/cv-tailor/assets/banner.png"
   },
   {
    "id": "vool-team/data-cleanup-plan",
    "folder": "skills/data-cleanup-plan",
    "title": "Data cleanup plan",
    "summary": "Look at sample rows you paste and list the cleanup steps your data needs.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "data-analysis",
    "category_label": "Data & analysis",
    "subcategory": "data-cleanup",
@@ -442,8 +482,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/data-cleanup-plan.vool.json",
-   "package_sha256": "8800678e4c88bbf55e8c3ada340d6b6a4679c1b0a8fa7db118785887d4902c8d",
-   "package_bytes": 8533
+   "package_sha256": "6eb00f875b6cd48562336b624647ddfe91cf33e4263ef28cd120736ffc968510",
+   "package_bytes": 536057,
+   "icon": "skills/data-cleanup-plan/assets/icon.png",
+   "banner": "skills/data-cleanup-plan/assets/banner.png"
   },
   {
    "id": "vool-team/day-planner",
@@ -470,8 +512,10 @@
     "Reminders"
    ],
    "package": "packages/day-planner.vool.json",
-   "package_sha256": "40777d7f2f5c3486bd9f2a81cf7f6d464a57eec5be0de97523245b4b8f7ba82a",
-   "package_bytes": 9514
+   "package_sha256": "62784f7b5a6dc93901d58a52fea0f645734e5df8ecbd49edd3ad5ce9407f1393",
+   "package_bytes": 531825,
+   "icon": "skills/day-planner/assets/icon.png",
+   "banner": "skills/day-planner/assets/banner.png"
   },
   {
    "id": "vool-team/disk-space-advisor",
@@ -498,8 +542,10 @@
     "Your files"
    ],
    "package": "packages/disk-space-advisor.vool.json",
-   "package_sha256": "df27c676ade32b8e79f4286cec3dec43447debc4b02142a286af8f0c8bfe589e",
-   "package_bytes": 9455
+   "package_sha256": "b3ba22c884b01cbf983d40b6f4b4bb7c2cbdd2166e70d662e2f3953fce35f25c",
+   "package_bytes": 500146,
+   "icon": "skills/disk-space-advisor/assets/icon.png",
+   "banner": "skills/disk-space-advisor/assets/banner.png"
   },
   {
    "id": "vool-team/downloads-tidy",
@@ -526,15 +572,17 @@
     "Your files"
    ],
    "package": "packages/downloads-tidy.vool.json",
-   "package_sha256": "b6ca5cd85aa134a5d30df949c767f022b007e942a169367ae0a4f5f04bae283b",
-   "package_bytes": 9615
+   "package_sha256": "dbb0acc2a4a47fc62a8952addc57ce49593799f217abb9d056549821e7c5b88a",
+   "package_bytes": 478470,
+   "icon": "skills/downloads-tidy/assets/icon.png",
+   "banner": "skills/downloads-tidy/assets/banner.png"
   },
   {
    "id": "vool-team/email-reply",
    "folder": "skills/email-reply",
    "title": "Email reply",
    "summary": "Draft a clear, polite reply to an email you paste, in the tone you choose.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "writing",
    "category_label": "Writing",
    "subcategory": "emails-letters",
@@ -546,8 +594,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/email-reply.vool.json",
-   "package_sha256": "5ddcda62f0646c90ec7791a06b5b43eac3a74f82893268bb921dce2de3cb3164",
-   "package_bytes": 7942
+   "package_sha256": "581ff881e2a0c8c7bb7df6d00631aa16a7fe8dceda49d6b9e3ce1a26aaa4edab",
+   "package_bytes": 707822,
+   "icon": "skills/email-reply/assets/icon.png",
+   "banner": "skills/email-reply/assets/banner.png"
   },
   {
    "id": "vool-team/email-to-calendar",
@@ -573,15 +623,17 @@
     "Calendar"
    ],
    "package": "packages/email-to-calendar.vool.json",
-   "package_sha256": "b2a8e24755b9d5adc6b99ae53b6aa4dc71aea0b96ce9ce507a98c24fbb7ff7d3",
-   "package_bytes": 9473
+   "package_sha256": "1a809a4fbeac4e81a46157af03f0e6084d8bb93df84918f53b162f1f82d955fc",
+   "package_bytes": 497452,
+   "icon": "skills/email-to-calendar/assets/icon.png",
+   "banner": "skills/email-to-calendar/assets/banner.png"
   },
   {
    "id": "vool-team/folder-tidy-plan",
    "folder": "skills/folder-tidy-plan",
    "title": "Folder tidy plan",
    "summary": "Suggest a folder structure and naming rules from a file list you paste. Moves nothing.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "automation",
    "category_label": "Automation",
    "subcategory": "files-folders",
@@ -593,15 +645,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/folder-tidy-plan.vool.json",
-   "package_sha256": "1f39657bc6a9d053e25d4bafb29cd9b429fd7f6b6fe37667dcc4e103cffccb70",
-   "package_bytes": 8344
+   "package_sha256": "511ec6b30d99af846e1ea9b8922b73a895ca4b9fcb43741a941be64b399e1cf3",
+   "package_bytes": 462524,
+   "icon": "skills/folder-tidy-plan/assets/icon.png",
+   "banner": "skills/folder-tidy-plan/assets/banner.png"
   },
   {
    "id": "vool-team/follow-up-planner",
    "folder": "skills/follow-up-planner",
    "title": "Follow-up planner",
    "summary": "Turn your call or meeting notes into next steps and a polite follow-up sequence.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "business",
    "category_label": "Business",
    "subcategory": "sales-outreach",
@@ -613,15 +667,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/follow-up-planner.vool.json",
-   "package_sha256": "484731fc1d0c70aea572ed07264ade39b514ef765a374a42fb65399c4f3edd45",
-   "package_bytes": 8421
+   "package_sha256": "80a67e8e91f913fd66f910d15f47ffa74ae40d292806ec18beae91a8e30bfdaf",
+   "package_bytes": 687841,
+   "icon": "skills/follow-up-planner/assets/icon.png",
+   "banner": "skills/follow-up-planner/assets/banner.png"
   },
   {
    "id": "vool-team/formal-request-letter",
    "folder": "skills/formal-request-letter",
    "title": "Formal request letter",
    "summary": "Write a clear, polite letter to a landlord, insurer, school or service asking for what you need.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "personal-home",
    "category_label": "Personal & home",
    "subcategory": "paperwork-admin",
@@ -633,15 +689,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/formal-request-letter.vool.json",
-   "package_sha256": "7ab65b24e308b611498b5438bcad85b234b0761000ce5adcdb7f48c53127e2e1",
-   "package_bytes": 9431
+   "package_sha256": "c9a408fcc7d3f798e6f6d7f8d4b059ed0502bb69000cb033ea14fa597a7e1b78",
+   "package_bytes": 544091,
+   "icon": "skills/formal-request-letter/assets/icon.png",
+   "banner": "skills/formal-request-letter/assets/banner.png"
   },
   {
    "id": "vool-team/formula-helper",
    "folder": "skills/formula-helper",
    "title": "Formula helper",
    "summary": "Write or explain a spreadsheet formula for what you describe, with a worked check.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "data-analysis",
    "category_label": "Data & analysis",
    "subcategory": "spreadsheets",
@@ -653,8 +711,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/formula-helper.vool.json",
-   "package_sha256": "5fb3d6ebb6d446ce160e8d8d05c68b8b3c8d221d129e703471b26692d303a39a",
-   "package_bytes": 8158
+   "package_sha256": "0452800fcb1d20a67ecb65a4b35bb2969302f1fe34e678a3513acf7f21ef6f43",
+   "package_bytes": 477770,
+   "icon": "skills/formula-helper/assets/icon.png",
+   "banner": "skills/formula-helper/assets/banner.png"
   },
   {
    "id": "vool-team/gentle-workout-plan",
@@ -679,8 +739,10 @@
     "Notes"
    ],
    "package": "packages/gentle-workout-plan.vool.json",
-   "package_sha256": "a1e7211f257b4193a825ab9802c6bbfb4f2560558b68a10d0e5eaa0fd32e748a",
-   "package_bytes": 9520
+   "package_sha256": "5b864cadbc176cafb9b67a8a933b69c25fa1c4ff54a3280e67037d103a44b492",
+   "package_bytes": 545331,
+   "icon": "skills/gentle-workout-plan/assets/icon.png",
+   "banner": "skills/gentle-workout-plan/assets/banner.png"
   },
   {
    "id": "vool-team/habit-builder",
@@ -705,15 +767,17 @@
     "Notes"
    ],
    "package": "packages/habit-builder.vool.json",
-   "package_sha256": "2d2bf3d7c06ab4bca056ad2bb3039a1d77fae8832045537dfc6214d1977729b4",
-   "package_bytes": 9437
+   "package_sha256": "ae310a47c0dd31245dc764c23ecb47f2de672421c83e7f57395282f104980929",
+   "package_bytes": 517272,
+   "icon": "skills/habit-builder/assets/icon.png",
+   "banner": "skills/habit-builder/assets/banner.png"
   },
   {
    "id": "vool-team/hacked-account-steps",
    "folder": "skills/hacked-account-steps",
    "title": "Hacked account steps",
    "summary": "Calm, ordered steps to take back control after an account or password leak.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "privacy-security",
    "category_label": "Privacy & security",
    "subcategory": "account-safety",
@@ -725,15 +789,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/hacked-account-steps.vool.json",
-   "package_sha256": "18426523e24609e2b766fe0f285f9caabc26db18484a985efddd3f9c531fb16f",
-   "package_bytes": 10648
+   "package_sha256": "7069d3854dcee5739f28bcc5536e4f92ab305d38bfb910647107e3127006e532",
+   "package_bytes": 690556,
+   "icon": "skills/hacked-account-steps/assets/icon.png",
+   "banner": "skills/hacked-account-steps/assets/banner.png"
   },
   {
    "id": "vool-team/image-prompt-builder",
    "folder": "skills/image-prompt-builder",
    "title": "Image prompt builder",
    "summary": "Turn your idea into a detailed image prompt with subject, style, light and framing.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "creative",
    "category_label": "Creative",
    "subcategory": "image-prompts",
@@ -745,8 +811,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/image-prompt-builder.vool.json",
-   "package_sha256": "1e539e44a9cdf9e2ac5bb804b89e2208feefa79c396e145b8c739b4a438b2046",
-   "package_bytes": 8183
+   "package_sha256": "665fd43f84c32b91a07ff6acdff9a40779fd957680696a03a5308c543ca4b088",
+   "package_bytes": 589679,
+   "icon": "skills/image-prompt-builder/assets/icon.png",
+   "banner": "skills/image-prompt-builder/assets/banner.png"
   },
   {
    "id": "vool-team/inbox-triage",
@@ -772,15 +840,17 @@
     "Email"
    ],
    "package": "packages/inbox-triage.vool.json",
-   "package_sha256": "2736862554cd2ac722f10718792ecd4097e780cccd3cf1b6e0f637665eea4379",
-   "package_bytes": 9547
+   "package_sha256": "561d226c58acb5b150ba81e2be72881c90083652fbe58555bc0bd965d91e92a7",
+   "package_bytes": 685234,
+   "icon": "skills/inbox-triage/assets/icon.png",
+   "banner": "skills/inbox-triage/assets/banner.png"
   },
   {
    "id": "vool-team/invoice-writer",
    "folder": "skills/invoice-writer",
    "title": "Invoice writer",
    "summary": "Write a clear invoice from your work details, with totals checked line by line.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "money-crypto",
    "category_label": "Money & crypto",
    "subcategory": "invoices-receipts",
@@ -792,15 +862,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/invoice-writer.vool.json",
-   "package_sha256": "127efa2e0d7fdb14d50545f3a146558c4e5a73161d8d98c7b27a5b4c2464985a",
-   "package_bytes": 9319
+   "package_sha256": "62a6984d68e5476cb76e85dd58daabe161dba1bf320f51842d1267a9195ba504",
+   "package_bytes": 501431,
+   "icon": "skills/invoice-writer/assets/icon.png",
+   "banner": "skills/invoice-writer/assets/banner.png"
   },
   {
    "id": "vool-team/job-post-writer",
    "folder": "skills/job-post-writer",
    "title": "Job post writer",
    "summary": "Write a fair, clear job post from the role details you give.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "business",
    "category_label": "Business",
    "subcategory": "hiring",
@@ -812,15 +884,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/job-post-writer.vool.json",
-   "package_sha256": "425f693c168796f9570f6466916cd767424ff770a30da13bb9ce17f94c46bf9e",
-   "package_bytes": 8281
+   "package_sha256": "b7c429b121fd74e482e96d4dfad838e1e2753aae8c35a11f0e4fe8191bcd713d",
+   "package_bytes": 660457,
+   "icon": "skills/job-post-writer/assets/icon.png",
+   "banner": "skills/job-post-writer/assets/banner.png"
   },
   {
    "id": "vool-team/meal-plan-from-pantry",
    "folder": "skills/meal-plan-from-pantry",
    "title": "Meal plan from pantry",
    "summary": "Plan simple meals from the food you already have, plus a short shopping list.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "personal-home",
    "category_label": "Personal & home",
    "subcategory": "food-recipes",
@@ -832,15 +906,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/meal-plan-from-pantry.vool.json",
-   "package_sha256": "ba48f48d05fe37e03441fdad87ca870ca0272eb1411ad8044a155ff661ed5d2c",
-   "package_bytes": 8561
+   "package_sha256": "46a11f51d7de17ad448e2e5c1baea338d3e23b74a981fed128f23171bb3af92f",
+   "package_bytes": 573629,
+   "icon": "skills/meal-plan-from-pantry/assets/icon.png",
+   "banner": "skills/meal-plan-from-pantry/assets/banner.png"
   },
   {
    "id": "vool-team/meeting-agenda",
    "folder": "skills/meeting-agenda",
    "title": "Meeting agenda",
    "summary": "Build a timed meeting agenda from your goal, attendees and topics.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "productivity",
    "category_label": "Productivity",
    "subcategory": "meetings",
@@ -852,8 +928,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/meeting-agenda.vool.json",
-   "package_sha256": "21051b1ca353de3f9f0a6841bda0ad06e107f1502ffb7e9118addc0ec1adcc66",
-   "package_bytes": 7313
+   "package_sha256": "b3e1f4d5f57bbc2abcc90aef0e196baa6de5a053872344fc13ad5d188f66a535",
+   "package_bytes": 530329,
+   "icon": "skills/meeting-agenda/assets/icon.png",
+   "banner": "skills/meeting-agenda/assets/banner.png"
   },
   {
    "id": "vool-team/meeting-follow-up",
@@ -880,15 +958,17 @@
     "Email"
    ],
    "package": "packages/meeting-follow-up.vool.json",
-   "package_sha256": "9c9d43e7ef79d79d4e2236a77e2e4d4133be7dd07d95424bb4a2aafbb7f4d4a1",
-   "package_bytes": 9552
+   "package_sha256": "557120e27a29cbfeeebdd585b66520041c92639935be0ae8349041e172a0c632",
+   "package_bytes": 491855,
+   "icon": "skills/meeting-follow-up/assets/icon.png",
+   "banner": "skills/meeting-follow-up/assets/banner.png"
   },
   {
    "id": "vool-team/newsletter-writer",
    "folder": "skills/newsletter-writer",
    "title": "Newsletter writer",
    "summary": "Turn this week's updates into a short, readable newsletter issue with a clear subject line.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "writing",
    "category_label": "Writing",
    "subcategory": "articles-blogs",
@@ -900,8 +980,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/newsletter-writer.vool.json",
-   "package_sha256": "beb37de8f7457a3f0ba64ab8b47e6d3c01f0de9ea00779114a56f2bbafdf2890",
-   "package_bytes": 7955
+   "package_sha256": "f0f88f302488cba7261c49fd346c7b669579325edb0496b116088432ed396a25",
+   "package_bytes": 675307,
+   "icon": "skills/newsletter-writer/assets/icon.png",
+   "banner": "skills/newsletter-writer/assets/banner.png"
   },
   {
    "id": "vool-team/notes-digest",
@@ -927,15 +1009,17 @@
     "Notes"
    ],
    "package": "packages/notes-digest.vool.json",
-   "package_sha256": "b20006669fc536632424a490f81e228f95f5328d0d18a8b84c19bd648ff22cda",
-   "package_bytes": 9342
+   "package_sha256": "4634bd5e66d0f2f0b516cf67fd9514c7b4870114ebe95c84d24abc12c7905852",
+   "package_bytes": 542001,
+   "icon": "skills/notes-digest/assets/icon.png",
+   "banner": "skills/notes-digest/assets/banner.png"
   },
   {
    "id": "vool-team/notes-to-actions",
    "folder": "skills/notes-to-actions",
    "title": "Notes to actions",
    "summary": "Turn messy notes into a short summary and a clear list of next steps.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "productivity",
    "category_label": "Productivity",
    "subcategory": "notes-summaries",
@@ -947,15 +1031,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/notes-to-actions.vool.json",
-   "package_sha256": "db849a997314178110ed08efd40709bbcdcbac13fca60cd95b34162d6370b33b",
-   "package_bytes": 7131
+   "package_sha256": "74f00db38f6b98620841a22ecee7933258d6456089c321be6ef73b940aa779f4",
+   "package_bytes": 545339,
+   "icon": "skills/notes-to-actions/assets/icon.png",
+   "banner": "skills/notes-to-actions/assets/banner.png"
   },
   {
    "id": "vool-team/outreach-writer",
    "folder": "skills/outreach-writer",
    "title": "Outreach writer",
    "summary": "Write a short, personal first message to a prospect from your offer and what you know about them.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "business",
    "category_label": "Business",
    "subcategory": "sales-outreach",
@@ -967,8 +1053,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/outreach-writer.vool.json",
-   "package_sha256": "24b2023310a291abc60f792dc36d3b439fd353174621bd0e914f3d6e16f91552",
-   "package_bytes": 7930
+   "package_sha256": "882baa2f3405bdfb715b5d01cfa2f6506abd24e97a086477ec748f78fce64b69",
+   "package_bytes": 699726,
+   "icon": "skills/outreach-writer/assets/icon.png",
+   "banner": "skills/outreach-writer/assets/banner.png"
   },
   {
    "id": "vool-team/page-reader",
@@ -996,8 +1084,10 @@
     "Browser"
    ],
    "package": "packages/page-reader.vool.json",
-   "package_sha256": "3e522f1504c8b7a284ad66f123da378c94a7eec67ff0765d870fbf307e0d631c",
-   "package_bytes": 9576
+   "package_sha256": "cd6e6d094c38eff17ff9486e82bc921767b968aef083a12053374746d118ebd3",
+   "package_bytes": 474043,
+   "icon": "skills/page-reader/assets/icon.png",
+   "banner": "skills/page-reader/assets/banner.png"
   },
   {
    "id": "vool-team/pdf-document-review",
@@ -1023,8 +1113,10 @@
     "PDF reading"
    ],
    "package": "packages/pdf-document-review.vool.json",
-   "package_sha256": "ec9515abb730e98c13da61eaf661e81a880bea20ca6e8705ba41320a9f8dfbbf",
-   "package_bytes": 9630
+   "package_sha256": "ba25eb9bd357f985b2c67e15661222aa5c655fcf23487219c5e37d7b678a50df",
+   "package_bytes": 665765,
+   "icon": "skills/pdf-document-review/assets/icon.png",
+   "banner": "skills/pdf-document-review/assets/banner.png"
   },
   {
    "id": "vool-team/pdf-share-check",
@@ -1050,8 +1142,10 @@
     "PDF reading"
    ],
    "package": "packages/pdf-share-check.vool.json",
-   "package_sha256": "86bae4895a8557031e451d2bce1a2cb262a05168387cb090e46b3294a563e01e",
-   "package_bytes": 9492
+   "package_sha256": "bd8ab7a770ad032753ca289a7b40caa890112efe5dde74cc32695b89cd50df5a",
+   "package_bytes": 662603,
+   "icon": "skills/pdf-share-check/assets/icon.png",
+   "banner": "skills/pdf-share-check/assets/banner.png"
   },
   {
    "id": "vool-team/pdf-study-pack",
@@ -1079,8 +1173,10 @@
     "Notes"
    ],
    "package": "packages/pdf-study-pack.vool.json",
-   "package_sha256": "014fd9ab26c1b35eb4de7d7ac31c311875f3271c6e2eefc3869466f2da58f0e4",
-   "package_bytes": 9494
+   "package_sha256": "ab20c83fd1272be8fffc6a0d4f6fa6c7e59cd7f9e16e9704373df49a31a169b0",
+   "package_bytes": 509545,
+   "icon": "skills/pdf-study-pack/assets/icon.png",
+   "banner": "skills/pdf-study-pack/assets/banner.png"
   },
   {
    "id": "vool-team/phishing-email-check",
@@ -1104,15 +1200,17 @@
     "Email"
    ],
    "package": "packages/phishing-email-check.vool.json",
-   "package_sha256": "602a510c7065b5ec7341413d6ca9fbc3ba07c2b8efdd23c2051c5918d742982a",
-   "package_bytes": 9399
+   "package_sha256": "e1f15a61eb66aab15b0aae0120456e63e0d123faadeb060f9e288efe5089551c",
+   "package_bytes": 670798,
+   "icon": "skills/phishing-email-check/assets/icon.png",
+   "banner": "skills/phishing-email-check/assets/banner.png"
   },
   {
    "id": "vool-team/plain-explainer",
    "folder": "skills/plain-explainer",
    "title": "Plain explainer",
    "summary": "Explain a hard text you paste in plain words, with key terms and a one-line takeaway.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "research-learning",
    "category_label": "Research & learning",
    "subcategory": "reading",
@@ -1124,8 +1222,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/plain-explainer.vool.json",
-   "package_sha256": "8cb3e20908b5364f0c9f9243bfc62704dd4aea0f32228dd7d44ac5af6ca3a00c",
-   "package_bytes": 8456
+   "package_sha256": "c5917f15c3bf9c34347ce11de11db762265a46ee6b6cf52a39607d6a5dc30d61",
+   "package_bytes": 498764,
+   "icon": "skills/plain-explainer/assets/icon.png",
+   "banner": "skills/plain-explainer/assets/banner.png"
   },
   {
    "id": "vool-team/post-image-maker",
@@ -1148,8 +1248,10 @@
     "Images"
    ],
    "package": "packages/post-image-maker.vool.json",
-   "package_sha256": "9434b4220461f4d52e8f25287749c923bdbf43957a2588f9aeba8992c18d283b",
-   "package_bytes": 8246
+   "package_sha256": "d1d7ca7708d9846d9f081c0025adf9cab004adc2773eb5119a7901a1ada45189",
+   "package_bytes": 576681,
+   "icon": "skills/post-image-maker/assets/icon.png",
+   "banner": "skills/post-image-maker/assets/banner.png"
   },
   {
    "id": "vool-team/price-compare",
@@ -1177,15 +1279,17 @@
     "Browser"
    ],
    "package": "packages/price-compare.vool.json",
-   "package_sha256": "334034b98404cdc5dce9458644bf45077b06fdb6e17f36a63ae601764248082d",
-   "package_bytes": 9661
+   "package_sha256": "0e6a8b0f7ccd1bac7facee6c3ddeccbac959d4449aafa7ae415426a1236d091f",
+   "package_bytes": 493260,
+   "icon": "skills/price-compare/assets/icon.png",
+   "banner": "skills/price-compare/assets/banner.png"
   },
   {
    "id": "vool-team/price-data-reader",
    "folder": "skills/price-data-reader",
    "title": "Price data reader",
    "summary": "Describe what the price figures you paste show, without predictions or advice.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "money-crypto",
    "category_label": "Money & crypto",
    "subcategory": "market-data",
@@ -1197,15 +1301,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/price-data-reader.vool.json",
-   "package_sha256": "8c2927e28c7c0ed0fa46224d29c7f91086568868849ddec1d5321ee38f4e6b4d",
-   "package_bytes": 8296
+   "package_sha256": "75abd6793caf5d60a88b3819588b96f9915760b42dd55563bf018656cfdf5e08",
+   "package_bytes": 491204,
+   "icon": "skills/price-data-reader/assets/icon.png",
+   "banner": "skills/price-data-reader/assets/banner.png"
   },
   {
    "id": "vool-team/privacy-checkup",
    "folder": "skills/privacy-checkup",
    "title": "Privacy checkup",
    "summary": "Walk through the privacy settings that matter on your phone and computer, step by step, at your pace.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "privacy-security",
    "category_label": "Privacy & security",
    "subcategory": "privacy-checkup",
@@ -1217,15 +1323,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/privacy-checkup.vool.json",
-   "package_sha256": "b8254d5f423048dd4b9642b92524426e024f3df8eff3a096f50c5c448d82fba0",
-   "package_bytes": 9019
+   "package_sha256": "1f62e72588f9d62d50ef10cb1f3ac434acd81ee25f59650a5a7a3471da8ceef4",
+   "package_bytes": 673783,
+   "icon": "skills/privacy-checkup/assets/icon.png",
+   "banner": "skills/privacy-checkup/assets/banner.png"
   },
   {
    "id": "vool-team/proofread-plain",
    "folder": "skills/proofread-plain",
    "title": "Proofread",
    "summary": "Fix spelling, grammar and unclear sentences in your text and list what changed.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "writing",
    "category_label": "Writing",
    "subcategory": "editing-proofreading",
@@ -1237,8 +1345,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/proofread-plain.vool.json",
-   "package_sha256": "d7b1e99e28bcb61e4fcaa4a2f622eb9da2b091d4c630d6eae13345a7dec71843",
-   "package_bytes": 7711
+   "package_sha256": "ca9b807cdb634f6f6b5616860fc7ef1daae487cc17de6731a502c690f04389a6",
+   "package_bytes": 691035,
+   "icon": "skills/proofread-plain/assets/icon.png",
+   "banner": "skills/proofread-plain/assets/banner.png"
   },
   {
    "id": "vool-team/quick-video-edit",
@@ -1266,15 +1376,17 @@
     "Media Studio"
    ],
    "package": "packages/quick-video-edit.vool.json",
-   "package_sha256": "b874bdee6e4d467964d1faad3aa0d1d5d9133a2e7d3f7167879975515a5d2d45",
-   "package_bytes": 9523
+   "package_sha256": "ae906e38b67e0661e8575ecad17cc128d50fa7fd2866d5f5440de9faf2622629",
+   "package_bytes": 606238,
+   "icon": "skills/quick-video-edit/assets/icon.png",
+   "banner": "skills/quick-video-edit/assets/banner.png"
   },
   {
    "id": "vool-team/readme-writer",
    "folder": "skills/readme-writer",
    "title": "README writer",
    "summary": "Draft a README for your project from its purpose, setup steps and usage you describe.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "coding",
    "category_label": "Coding",
    "subcategory": "docs",
@@ -1286,15 +1398,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/readme-writer.vool.json",
-   "package_sha256": "e199f398913feb76636ebf4137598d197a50fbe2f6f7a9813de816d15c3f3305",
-   "package_bytes": 7698
+   "package_sha256": "ae6ea42f022327d4990419a7beb3a67bb618122b80c5305bc4dd73333098e797",
+   "package_bytes": 634194,
+   "icon": "skills/readme-writer/assets/icon.png",
+   "banner": "skills/readme-writer/assets/banner.png"
   },
   {
    "id": "vool-team/receipt-organizer",
    "folder": "skills/receipt-organizer",
    "title": "Receipt organizer",
    "summary": "Turn receipts you paste into a tidy, dated list with totals by category.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "money-crypto",
    "category_label": "Money & crypto",
    "subcategory": "invoices-receipts",
@@ -1306,15 +1420,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/receipt-organizer.vool.json",
-   "package_sha256": "7d2c5c3964617d5e7d1f5fc31fd5deb6ff79d9d8eac79e8c23e348d1c03d3df6",
-   "package_bytes": 8568
+   "package_sha256": "7ac714e922eaa8334edb59ca3102f852a049d07e21b9bea27ef54e9feac4d3c7",
+   "package_bytes": 501584,
+   "icon": "skills/receipt-organizer/assets/icon.png",
+   "banner": "skills/receipt-organizer/assets/banner.png"
   },
   {
    "id": "vool-team/redact-before-sharing",
    "folder": "skills/redact-before-sharing",
    "title": "Redact before sharing",
    "summary": "Remove names, numbers, addresses and other personal details from text before you share it.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "privacy-security",
    "category_label": "Privacy & security",
    "subcategory": "safe-sharing",
@@ -1326,8 +1442,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/redact-before-sharing.vool.json",
-   "package_sha256": "4866bc00e9078c4b8fa697a5fc15c93bacb4a3202faa8f59b3ca79ccab7728fb",
-   "package_bytes": 8717
+   "package_sha256": "4b4946faaa06882e9e85e32a206d24ec86071a83525d77611615467c00e0e54e",
+   "package_bytes": 661469,
+   "icon": "skills/redact-before-sharing/assets/icon.png",
+   "banner": "skills/redact-before-sharing/assets/banner.png"
   },
   {
    "id": "vool-team/repo-explainer",
@@ -1356,15 +1474,17 @@
     "Project folder"
    ],
    "package": "packages/repo-explainer.vool.json",
-   "package_sha256": "f70d918a608582efb90afc94dce11545ccf6dd1963548e07f29c586ee610317c",
-   "package_bytes": 9718
+   "package_sha256": "117a8c6b2a5117d62cd9cb8e76df7aa997235b16987886568bcfcaab39e5dd1f",
+   "package_bytes": 667053,
+   "icon": "skills/repo-explainer/assets/icon.png",
+   "banner": "skills/repo-explainer/assets/banner.png"
   },
   {
    "id": "vool-team/report-outline",
    "folder": "skills/report-outline",
    "title": "Report outline",
    "summary": "Turn your findings and numbers into a short report outline with key points first.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "data-analysis",
    "category_label": "Data & analysis",
    "subcategory": "reports",
@@ -1376,8 +1496,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/report-outline.vool.json",
-   "package_sha256": "0fbcb6e5c8c69936d5bd6347861b4967c7be57cb7b634b8521db7b5b131bb777",
-   "package_bytes": 8092
+   "package_sha256": "5d6d206dfed4a67bae6d07d8d4b8145c6d3d94b29cc46a8f41d59a9385416174",
+   "package_bytes": 476232,
+   "icon": "skills/report-outline/assets/icon.png",
+   "banner": "skills/report-outline/assets/banner.png"
   },
   {
    "id": "vool-team/research-brief",
@@ -1406,15 +1528,17 @@
     "Notes"
    ],
    "package": "packages/research-brief.vool.json",
-   "package_sha256": "fe0b382a3b9c42907caa63d9b485aede5174f55e502c6322c3b7b512216cba3d",
-   "package_bytes": 9609
+   "package_sha256": "0edca7cc04a33e38a046d8de786da855d7da65566560423918b29f0031343b5f",
+   "package_bytes": 582896,
+   "icon": "skills/research-brief/assets/icon.png",
+   "banner": "skills/research-brief/assets/banner.png"
   },
   {
    "id": "vool-team/return-refund-helper",
    "folder": "skills/return-refund-helper",
    "title": "Return and refund helper",
    "summary": "Prepare a return or refund request from your order details, with the right tone and facts.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "personal-home",
    "category_label": "Personal & home",
    "subcategory": "shopping",
@@ -1426,15 +1550,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/return-refund-helper.vool.json",
-   "package_sha256": "a09a4de88f59edc3c1f2cc9ce3ae5c9638c0f22e9b17c77f4f8e0af66c833619",
-   "package_bytes": 10118
+   "package_sha256": "72596e3d8c1cef7d9499a18ec58b5ce3e29bddf84f02136afdc03f99f8d4b177",
+   "package_bytes": 557290,
+   "icon": "skills/return-refund-helper/assets/icon.png",
+   "banner": "skills/return-refund-helper/assets/banner.png"
   },
   {
    "id": "vool-team/scam-check",
    "folder": "skills/scam-check",
    "title": "Scam check",
    "summary": "Paste a message, offer or call script and get the warning signs and what to do next.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "privacy-security",
    "category_label": "Privacy & security",
    "subcategory": "scams-phishing",
@@ -1446,15 +1572,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/scam-check.vool.json",
-   "package_sha256": "e68ee0a6a4db7da324b99c4837c41b4d6954745e921049d771913e595ed9802f",
-   "package_bytes": 10321
+   "package_sha256": "7c9bb57fb8ac57799cd0bc279682bea54cc8ec38f50632dfdd40e1e30298d501",
+   "package_bytes": 672365,
+   "icon": "skills/scam-check/assets/icon.png",
+   "banner": "skills/scam-check/assets/banner.png"
   },
   {
    "id": "vool-team/short-video-script",
    "folder": "skills/short-video-script",
    "title": "Short video script",
    "summary": "Write a short video script with scenes, narration and on-screen text from your idea.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "creative",
    "category_label": "Creative",
    "subcategory": "video-scripts",
@@ -1466,15 +1594,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/short-video-script.vool.json",
-   "package_sha256": "1728692a4669468717de65c8d9af8086de0a3d4f8f0de017937fc50f796e445e",
-   "package_bytes": 8296
+   "package_sha256": "106b2dbc10b7b8f065d0d7467e762e74552fff6a0da04cb1f6f3eaf7f22930c1",
+   "package_bytes": 577696,
+   "icon": "skills/short-video-script/assets/icon.png",
+   "banner": "skills/short-video-script/assets/banner.png"
   },
   {
    "id": "vool-team/slide-design-plan",
    "folder": "skills/slide-design-plan",
    "title": "Slide design plan",
    "summary": "Plan a clear slide deck: one message per slide, layout, visuals and speaker notes.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "creative",
    "category_label": "Creative",
    "subcategory": "design-ideas",
@@ -1486,8 +1616,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/slide-design-plan.vool.json",
-   "package_sha256": "c78cc9f02bba6f8f6d9e2b9a12cb880cf196c5b3db5a344f5dad55fd6c6f4575",
-   "package_bytes": 9053
+   "package_sha256": "ccd5b32a2447b50bd2d64e2b4ddeee8001babc1a48d0af8629b06329abdb5b49",
+   "package_bytes": 581501,
+   "icon": "skills/slide-design-plan/assets/icon.png",
+   "banner": "skills/slide-design-plan/assets/banner.png"
   },
   {
    "id": "vool-team/social-manager",
@@ -1514,15 +1646,17 @@
     "X trends"
    ],
    "package": "packages/social-manager.vool.json",
-   "package_sha256": "4fc2ef8725a21c8a8cb9e748c35ed7e5f6b6ebcd442da708906d8682c2921fae",
-   "package_bytes": 9720
+   "package_sha256": "114f41ea46c7051adbeabcf6a0812b620cf3b4b3ff5e919719cae379bd389ce1",
+   "package_bytes": 684531,
+   "icon": "skills/social-manager/assets/icon.png",
+   "banner": "skills/social-manager/assets/banner.png"
   },
   {
    "id": "vool-team/social-post-drafts",
    "folder": "skills/social-post-drafts",
    "title": "Social post drafts",
    "summary": "Turn your idea or update into three short post drafts of different lengths.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "writing",
    "category_label": "Writing",
    "subcategory": "social-posts",
@@ -1534,15 +1668,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/social-post-drafts.vool.json",
-   "package_sha256": "daa5219848899fa82d586f549308c770b68beb6117be5e86d36469cb3b64961a",
-   "package_bytes": 7573
+   "package_sha256": "f00f1faf3844ecd0d294644f0ae77b437d5b443f286ad5f71c10a97a4308cd92",
+   "package_bytes": 679601,
+   "icon": "skills/social-post-drafts/assets/icon.png",
+   "banner": "skills/social-post-drafts/assets/banner.png"
   },
   {
    "id": "vool-team/song-lyrics-starter",
    "folder": "skills/song-lyrics-starter",
    "title": "Song lyrics starter",
    "summary": "Help you write original song lyrics from your theme, mood and structure.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "creative",
    "category_label": "Creative",
    "subcategory": "music-audio",
@@ -1554,15 +1690,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/song-lyrics-starter.vool.json",
-   "package_sha256": "de19bde641f7dd743be96473431f0b23082f73b1884ea40401830b3928b46752",
-   "package_bytes": 8134
+   "package_sha256": "0e3c213500eeb7b92469ebe49f251251c3358a46b37a317c45ba2ac1541e18b3",
+   "package_bytes": 626650,
+   "icon": "skills/song-lyrics-starter/assets/icon.png",
+   "banner": "skills/song-lyrics-starter/assets/banner.png"
   },
   {
    "id": "vool-team/sql-explainer",
    "folder": "skills/sql-explainer",
    "title": "SQL explainer",
    "summary": "Explain what a SQL query does, step by step, and point out likely mistakes.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "coding",
    "category_label": "Coding",
    "subcategory": "data-sql",
@@ -1574,15 +1712,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/sql-explainer.vool.json",
-   "package_sha256": "8cc07303edd029312c67b0a9c6c3c1a4a71d24e94bdbf18f72f8525b66ec1f90",
-   "package_bytes": 8864
+   "package_sha256": "30e2687f85535cc161b71fe303310f7b381313c96b7e343c69d48a1cc66c491a",
+   "package_bytes": 635844,
+   "icon": "skills/sql-explainer/assets/icon.png",
+   "banner": "skills/sql-explainer/assets/banner.png"
   },
   {
    "id": "vool-team/study-flashcards",
    "folder": "skills/study-flashcards",
    "title": "Study flashcards",
    "summary": "Make question-and-answer flashcards and a short self-test from your study notes.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "research-learning",
    "category_label": "Research & learning",
    "subcategory": "study-tutoring",
@@ -1594,15 +1734,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/study-flashcards.vool.json",
-   "package_sha256": "14b6fdeec02d694c67564238eae9f54ba58d11e2dd67531d7d1d6f2aef60478d",
-   "package_bytes": 8114
+   "package_sha256": "eed20ef576ea95769619d41aafff350d212f5cfc75aa529cc2a1a4b3b179b9a3",
+   "package_bytes": 529442,
+   "icon": "skills/study-flashcards/assets/icon.png",
+   "banner": "skills/study-flashcards/assets/banner.png"
   },
   {
    "id": "vool-team/tax-notes-organizer",
    "folder": "skills/tax-notes-organizer",
    "title": "Tax notes organizer",
    "summary": "Organize your income and expense notes into a tidy list to bring to a tax professional.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "money-crypto",
    "category_label": "Money & crypto",
    "subcategory": "tax-notes",
@@ -1614,8 +1756,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/tax-notes-organizer.vool.json",
-   "package_sha256": "0b1582c46852ca8debef749320590d7b5c2616f1b3d3d60a75d1a18652cc2e89",
-   "package_bytes": 8443
+   "package_sha256": "29104592d428f4f9ef13d5463702f5b27ce2164805bf8876fbd6af4acfef26f2",
+   "package_bytes": 482611,
+   "icon": "skills/tax-notes-organizer/assets/icon.png",
+   "banner": "skills/tax-notes-organizer/assets/banner.png"
   },
   {
    "id": "vool-team/test-failure-helper",
@@ -1643,15 +1787,17 @@
     "Project folder"
    ],
    "package": "packages/test-failure-helper.vool.json",
-   "package_sha256": "5f4c403418f86e664455f3435c2c5fa3a90ec8f8b18e3b29d90519d385cf8623",
-   "package_bytes": 9595
+   "package_sha256": "cb9b55767c445e2bf355024aee778ce1f17734c7749eb2dd1e9f153e04668cf9",
+   "package_bytes": 656602,
+   "icon": "skills/test-failure-helper/assets/icon.png",
+   "banner": "skills/test-failure-helper/assets/banner.png"
   },
   {
    "id": "vool-team/transaction-explainer",
    "folder": "skills/transaction-explainer",
    "title": "Transaction explainer",
    "summary": "Explain in plain words what a crypto transaction or wallet message you paste means.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "money-crypto",
    "category_label": "Money & crypto",
    "subcategory": "wallet-explained",
@@ -1663,15 +1809,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/transaction-explainer.vool.json",
-   "package_sha256": "9ac79c5dee8833c66451f3a6e4efcb9fc39747984e0cbb89a0d6866dc35067ac",
-   "package_bytes": 9622
+   "package_sha256": "30a6f2d627de5e0d73b37c5109cbeb3ff36c68e544e134f39e07b6d31db22e5c",
+   "package_bytes": 529242,
+   "icon": "skills/transaction-explainer/assets/icon.png",
+   "banner": "skills/transaction-explainer/assets/banner.png"
   },
   {
    "id": "vool-team/translate-keep-tone",
    "folder": "skills/translate-keep-tone",
    "title": "Translate, keep the tone",
    "summary": "Translate your text into another language while keeping its tone and meaning.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "writing",
    "category_label": "Writing",
    "subcategory": "translation",
@@ -1683,15 +1831,17 @@
    "tools": [],
    "uses": [],
    "package": "packages/translate-keep-tone.vool.json",
-   "package_sha256": "dd83b788802348ff8fb9ec41d37f49de80807aacbed26e56232f493a02752307",
-   "package_bytes": 7420
+   "package_sha256": "714bc85b8fb27aa540c90db759e2ff3078388187ab28dc5375580eff7721abbc",
+   "package_bytes": 714484,
+   "icon": "skills/translate-keep-tone/assets/icon.png",
+   "banner": "skills/translate-keep-tone/assets/banner.png"
   },
   {
    "id": "vool-team/trip-packing-list",
    "folder": "skills/trip-packing-list",
    "title": "Trip packing list",
    "summary": "Make a packing list for your trip from where, how long, weather and plans you give.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "personal-home",
    "category_label": "Personal & home",
    "subcategory": "travel",
@@ -1703,8 +1853,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/trip-packing-list.vool.json",
-   "package_sha256": "0c1a45eb64597cc339dd11ee2c3a95751805de8f72c85f95e66dbf56c7fa01e6",
-   "package_bytes": 8689
+   "package_sha256": "6dbb3dca612e0b97ccf07f96eeb399c3bb2540422b456b609b9d7eeee0583a64",
+   "package_bytes": 538173,
+   "icon": "skills/trip-packing-list/assets/icon.png",
+   "banner": "skills/trip-packing-list/assets/banner.png"
   },
   {
    "id": "vool-team/wallet-explainer",
@@ -1733,15 +1885,17 @@
     "Chain data"
    ],
    "package": "packages/wallet-explainer.vool.json",
-   "package_sha256": "75443729b59ccba693eab6c5b61d59f6b7b427a0a95dec3b8e7340365429da91",
-   "package_bytes": 9653
+   "package_sha256": "7d857eb7d78c1a20dc163782c05599ec294a9345906409d37d989e95801e7568",
+   "package_bytes": 497812,
+   "icon": "skills/wallet-explainer/assets/icon.png",
+   "banner": "skills/wallet-explainer/assets/banner.png"
   },
   {
    "id": "vool-team/weekly-plan",
    "folder": "skills/weekly-plan",
    "title": "Weekly plan",
    "summary": "Turn your task list and fixed commitments into a realistic plan for the week.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "productivity",
    "category_label": "Productivity",
    "subcategory": "planning-tasks",
@@ -1753,8 +1907,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/weekly-plan.vool.json",
-   "package_sha256": "5e8ee45d47f7cbab77998b9447f0ea014357937759bf7389464dc55209f5601f",
-   "package_bytes": 7270
+   "package_sha256": "319c21249cd4b5bb11df461952e9118b192ff1e7ebbce82f1044323a3825c760",
+   "package_bytes": 518682,
+   "icon": "skills/weekly-plan/assets/icon.png",
+   "banner": "skills/weekly-plan/assets/banner.png"
   },
   {
    "id": "vool-team/what-vool-knows",
@@ -1777,8 +1933,10 @@
     "What VOOL remembers"
    ],
    "package": "packages/what-vool-knows.vool.json",
-   "package_sha256": "ddbd3f3afe8c4326bd2009c95541288d13e2257bad6f086c41fd70398a1cd5ad",
-   "package_bytes": 9350
+   "package_sha256": "50b7702c01988ab5bb466284b082079409f8ea70597872f1a20b0cb3cd57e721",
+   "package_bytes": 659557,
+   "icon": "skills/what-vool-knows/assets/icon.png",
+   "banner": "skills/what-vool-knows/assets/banner.png"
   }
  ]
 }
