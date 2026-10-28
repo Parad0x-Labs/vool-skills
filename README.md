@@ -10,7 +10,7 @@ notes, files, the browser and others) still go through those tools' own settings
 In VOOL you can open this repository from Skills & Plugins by pasting its address into the search box. Adding a
 skill from GitHub there needs an Eyebrow key for its scan, and skills that use VOOL tools can't be added that way.
 
-## Skills (79)
+## Skills (70)
 
 ### Writing
 
@@ -19,7 +19,7 @@ skill from GitHub there needs an Eyebrow key for its scan, and skills that use V
 | [Blog post builder](skills/blog-post-builder/SKILL.md) | Turn your points and notes into a structured blog post: outline first, then a full draft in your voice. | Text only |
 | [Cover letter writer](skills/cover-letter-writer/SKILL.md) | Write a short cover letter from your CV and the job post, in your own voice. | Text only |
 | [CV tailor](skills/cv-tailor/SKILL.md) | Match your CV to a job post: what to highlight, what to reword and what is missing. | Text only |
-| [Email reply](skills/email-reply/SKILL.md) | Draft a clear, polite reply to an email you paste, in the tone you choose. | Text only |
+| [Email reply](skills/email-reply/SKILL.md) | Draft a clear, polite reply to an email or customer message you paste, in the tone you choose. | Text only |
 | [Inbox triage](skills/inbox-triage/SKILL.md) | Sort recent emails by what needs you, and prepare reply drafts for you to check. Sends nothing. | Email |
 | [Newsletter writer](skills/newsletter-writer/SKILL.md) | Turn this week's updates into a short, readable newsletter issue with a clear subject line. | Text only |
 | [Proofread](skills/proofread-plain/SKILL.md) | Fix spelling, grammar and unclear sentences in your text and list what changed. | Text only |
@@ -30,21 +30,19 @@ skill from GitHub there needs an Eyebrow key for its scan, and skills that use V
 
 | Skill | What it does | Uses |
 |---|---|---|
-| [Day planner](skills/day-planner/SKILL.md) | Build a realistic plan for your day from your calendar, reminders and to-dos. | Calendar, Reminders |
 | [Meeting agenda](skills/meeting-agenda/SKILL.md) | Build a timed meeting agenda from your goal, attendees and topics. | Text only |
 | [Notes digest](skills/notes-digest/SKILL.md) | Pull together your recent notes into a weekly digest of decisions, open loops and ideas. | Notes |
 | [Notes to actions](skills/notes-to-actions/SKILL.md) | Turn messy notes into a short summary and a clear list of next steps. | Text only |
-| [Weekly plan](skills/weekly-plan/SKILL.md) | Turn your task list and fixed commitments into a realistic plan for the week. | Text only |
+| [Weekly plan](skills/weekly-plan/SKILL.md) | Turn your tasks and fixed commitments into a realistic plan for the week, or for today. | Text only; Calendar and Reminders if on |
 
 ### Research & learning
 
 | Skill | What it does | Uses |
 |---|---|---|
 | [Claim check](skills/claim-check/SKILL.md) | Break a claim or article you paste into checkable statements and what evidence would settle each. | Text only |
-| [PDF study pack](skills/pdf-study-pack/SKILL.md) | Turn a PDF chapter or paper into a summary, key terms, flashcards and a self-test. | PDF reading, Notes |
 | [Plain explainer](skills/plain-explainer/SKILL.md) | Explain a hard text you paste in plain words, with key terms and a one-line takeaway. | Text only |
 | [Research brief](skills/research-brief/SKILL.md) | Research a question across sources, cite each one and save a short brief you can come back to. | Web search, Notes |
-| [Study flashcards](skills/study-flashcards/SKILL.md) | Make question-and-answer flashcards and a short self-test from your study notes. | Text only |
+| [Study flashcards](skills/study-flashcards/SKILL.md) | Make flashcards and a self-test from your study notes, or a study pack from a chapter you paste. | Text only |
 
 ### Coding
 
@@ -52,18 +50,14 @@ skill from GitHub there needs an Eyebrow key for its scan, and skills that use V
 |---|---|---|
 | [Bug report writer](skills/bug-report-writer/SKILL.md) | Turn a problem description and error output into a clear, reproducible bug report. | Text only |
 | [Build log reader](skills/build-log-reader/SKILL.md) | Read a build or deploy log you paste and explain where and why it failed. | Text only |
-| [Code review notes](skills/code-review-notes/SKILL.md) | Review a code change you paste for bugs, risks and readability, ordered by severity. | Text only |
-| [Project explainer](skills/repo-explainer/SKILL.md) | Walk through a code project in your workspace and explain how it fits together, with file references. Read-only. | Project folder |
 | [README writer](skills/readme-writer/SKILL.md) | Draft a README for your project from its purpose, setup steps and usage you describe. | Text only |
 | [SQL explainer](skills/sql-explainer/SKILL.md) | Explain what a SQL query does, step by step, and point out likely mistakes. | Text only |
-| [Test failure helper](skills/test-failure-helper/SKILL.md) | Run your project's tests, find why one fails and explain the likely cause. Changes no code. | Project folder |
 
 ### Business
 
 | Skill | What it does | Uses |
 |---|---|---|
 | [Contract summary](skills/contract-summary/SKILL.md) | Summarize a contract or agreement you paste in plain words and flag points to ask about. | Text only |
-| [Customer reply](skills/customer-reply/SKILL.md) | Draft a calm, helpful answer to a customer message using only facts you provide. | Text only |
 | [Follow-up planner](skills/follow-up-planner/SKILL.md) | Turn your call or meeting notes into next steps and a polite follow-up sequence. | Text only |
 | [Job post writer](skills/job-post-writer/SKILL.md) | Write a fair, clear job post from the role details you give. | Text only |
 | [Outreach writer](skills/outreach-writer/SKILL.md) | Write a short, personal first message to a prospect from your offer and what you know about them. | Text only |
@@ -98,9 +92,7 @@ skill from GitHub there needs an Eyebrow key for its scan, and skills that use V
 |---|---|---|
 | [Brand kit ideas](skills/brand-kit-ideas/SKILL.md) | Get name, colour, type and mood ideas for your brand or project from a short brief. | Text only |
 | [Creative series](skills/creative-series/SKILL.md) | Keeps a character, look and story consistent across a series of images and videos you make. | Saved sets, Images, Video |
-| [Image prompt builder](skills/image-prompt-builder/SKILL.md) | Turn your idea into a detailed image prompt with subject, style, light and framing. | Text only |
-| [Post image maker](skills/post-image-maker/SKILL.md) | Make images for your posts from a short brief, one at a time and only when you say go. | Images |
-| [Quick video edit](skills/quick-video-edit/SKILL.md) | Trim, crop and reshape a video for a post (square, tall or wide) and export a new copy. | Media Studio |
+| [Image prompt builder](skills/image-prompt-builder/SKILL.md) | Turn your idea into a detailed image prompt, and make the picture when you say go. | Text only; Images if on |
 | [Short video script](skills/short-video-script/SKILL.md) | Write a short video script with scenes, narration and on-screen text from your idea. | Text only |
 | [Slide design plan](skills/slide-design-plan/SKILL.md) | Plan a clear slide deck: one message per slide, layout, visuals and speaker notes. | Text only |
 | [Song lyrics starter](skills/song-lyrics-starter/SKILL.md) | Help you write original song lyrics from your theme, mood and structure. | Text only |
@@ -130,7 +122,6 @@ skill from GitHub there needs an Eyebrow key for its scan, and skills that use V
 | [Email to calendar](skills/email-to-calendar/SKILL.md) | Find dates and times in an email and prepare calendar events for you to approve. | Email, Calendar |
 | [Folder tidy plan](skills/folder-tidy-plan/SKILL.md) | Suggest a folder structure and naming rules from a file list you paste. Moves nothing. | Text only |
 | [Meeting follow-up](skills/meeting-follow-up/SKILL.md) | Turn a saved meeting note into a follow-up email draft for you to check. Sends nothing. | Notes, Email |
-| [Page reader](skills/page-reader/SKILL.md) | Open a public page you give and summarise what it says, quoting the parts that matter. | Browser |
 | [Price compare](skills/price-compare/SKILL.md) | Open the product pages you give and compare total prices, shipping and returns. Never buys. | Browser |
 
 ### Privacy & security

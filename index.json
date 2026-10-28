@@ -224,26 +224,6 @@
    "package_bytes": 8662
   },
   {
-   "id": "vool-team/code-review-notes",
-   "folder": "skills/code-review-notes",
-   "title": "Code review notes",
-   "summary": "Review a code change you paste for bugs, risks and readability, ordered by severity.",
-   "version": "1.0.0",
-   "category": "coding",
-   "category_label": "Coding",
-   "subcategory": "code-review",
-   "subcategory_label": "Code review",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [],
-   "uses": [],
-   "package": "packages/code-review-notes.vool.json",
-   "package_sha256": "2eb6253170125b457b35f638b04f277ba42a88a430122be77ff5a5111c8a093a",
-   "package_bytes": 8112
-  },
-  {
    "id": "vool-team/command-explainer",
    "folder": "skills/command-explainer",
    "title": "Command explainer",
@@ -386,26 +366,6 @@
    "package_bytes": 8648
   },
   {
-   "id": "vool-team/customer-reply",
-   "folder": "skills/customer-reply",
-   "title": "Customer reply",
-   "summary": "Draft a calm, helpful answer to a customer message using only facts you provide.",
-   "version": "1.0.0",
-   "category": "business",
-   "category_label": "Business",
-   "subcategory": "customer-support",
-   "subcategory_label": "Customer support",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [],
-   "uses": [],
-   "package": "packages/customer-reply.vool.json",
-   "package_sha256": "cfc3ba2cf951c1f7e5dd65c7cc74cefa2a56ca7c7b16cead8a7fb2c6e8275c11",
-   "package_bytes": 7675
-  },
-  {
    "id": "vool-team/cv-tailor",
    "folder": "skills/cv-tailor",
    "title": "CV tailor",
@@ -444,34 +404,6 @@
    "package": "packages/data-cleanup-plan.vool.json",
    "package_sha256": "c59b5602612ab201432672c346889b9a574f88ad7f0e2dd49b80fe2240589cdb",
    "package_bytes": 8821
-  },
-  {
-   "id": "vool-team/day-planner",
-   "folder": "skills/day-planner",
-   "title": "Day planner",
-   "summary": "Build a realistic plan for your day from your calendar, reminders and to-dos.",
-   "version": "1.0.0",
-   "category": "productivity",
-   "category_label": "Productivity",
-   "subcategory": "scheduling",
-   "subcategory_label": "Scheduling",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [
-    "operator.show_agenda",
-    "operator.check_availability",
-    "operator.list_reminders",
-    "operator.propose_calendar_event"
-   ],
-   "uses": [
-    "Calendar",
-    "Reminders"
-   ],
-   "package": "packages/day-planner.vool.json",
-   "package_sha256": "40777d7f2f5c3486bd9f2a81cf7f6d464a57eec5be0de97523245b4b8f7ba82a",
-   "package_bytes": 9514
   },
   {
    "id": "vool-team/disk-space-advisor",
@@ -533,7 +465,7 @@
    "id": "vool-team/email-reply",
    "folder": "skills/email-reply",
    "title": "Email reply",
-   "summary": "Draft a clear, polite reply to an email you paste, in the tone you choose.",
+   "summary": "Draft a clear, polite reply to an email or customer message you paste, in the tone you choose.",
    "version": "1.0.0",
    "category": "writing",
    "category_label": "Writing",
@@ -546,8 +478,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/email-reply.vool.json",
-   "package_sha256": "c9694531c6fc5a7138ea6997bfac714595324c443a6e9cea25557c48b5ccd151",
-   "package_bytes": 8122
+   "package_sha256": "65da2d78510f087c0df30258a34c34e97f71b795d8f8356b8ae01d5625d6d4bc",
+   "package_bytes": 11478
   },
   {
    "id": "vool-team/email-to-calendar",
@@ -732,7 +664,7 @@
    "id": "vool-team/image-prompt-builder",
    "folder": "skills/image-prompt-builder",
    "title": "Image prompt builder",
-   "summary": "Turn your idea into a detailed image prompt with subject, style, light and framing.",
+   "summary": "Turn your idea into a detailed image prompt, and make the picture when you say go.",
    "version": "1.0.0",
    "category": "creative",
    "category_label": "Creative",
@@ -745,8 +677,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/image-prompt-builder.vool.json",
-   "package_sha256": "87143a73d5053ed38f395849540eddb33693b64e16eefe472c484fa323bf2e1f",
-   "package_bytes": 8387
+   "package_sha256": "397c59af47381d647e425baa3d68683be7828de5409b164ba07a243010913616",
+   "package_bytes": 11586
   },
   {
    "id": "vool-team/inbox-triage",
@@ -971,35 +903,6 @@
    "package_bytes": 8246
   },
   {
-   "id": "vool-team/page-reader",
-   "folder": "skills/page-reader",
-   "title": "Page reader",
-   "summary": "Open a public page you give and summarise what it says, quoting the parts that matter.",
-   "version": "1.0.0",
-   "category": "automation",
-   "category_label": "Automation",
-   "subcategory": "browser-tasks",
-   "subcategory_label": "Browser tasks",
-   "languages": [
-    "en"
-   ],
-   "needs": [
-    "browser"
-   ],
-   "tools": [
-    "vool-browser.session.open",
-    "vool-browser.inspect",
-    "vool-browser.screenshot",
-    "vool-browser.session.close"
-   ],
-   "uses": [
-    "Browser"
-   ],
-   "package": "packages/page-reader.vool.json",
-   "package_sha256": "3e522f1504c8b7a284ad66f123da378c94a7eec67ff0765d870fbf307e0d631c",
-   "package_bytes": 9576
-  },
-  {
    "id": "vool-team/pdf-document-review",
    "folder": "skills/pdf-document-review",
    "title": "PDF document review",
@@ -1054,35 +957,6 @@
    "package_bytes": 9492
   },
   {
-   "id": "vool-team/pdf-study-pack",
-   "folder": "skills/pdf-study-pack",
-   "title": "PDF study pack",
-   "summary": "Turn a PDF chapter or paper into a summary, key terms, flashcards and a self-test.",
-   "version": "1.0.0",
-   "category": "research-learning",
-   "category_label": "Research & learning",
-   "subcategory": "study-tutoring",
-   "subcategory_label": "Study & tutoring",
-   "languages": [
-    "en"
-   ],
-   "needs": [
-    "files"
-   ],
-   "tools": [
-    "pdf.extract_text",
-    "pdf.ocr",
-    "operator.save_note"
-   ],
-   "uses": [
-    "PDF reading",
-    "Notes"
-   ],
-   "package": "packages/pdf-study-pack.vool.json",
-   "package_sha256": "014fd9ab26c1b35eb4de7d7ac31c311875f3271c6e2eefc3869466f2da58f0e4",
-   "package_bytes": 9494
-  },
-  {
    "id": "vool-team/phishing-email-check",
    "folder": "skills/phishing-email-check",
    "title": "Phishing email check",
@@ -1126,30 +1000,6 @@
    "package": "packages/plain-explainer.vool.json",
    "package_sha256": "8446e044c63d2ca753cb95ba5154cfe67c51ca0459e8491ec08efebfbff86320",
    "package_bytes": 8796
-  },
-  {
-   "id": "vool-team/post-image-maker",
-   "folder": "skills/post-image-maker",
-   "title": "Post image maker",
-   "summary": "Make images for your posts from a short brief, one at a time and only when you say go.",
-   "version": "1.0.0",
-   "category": "creative",
-   "category_label": "Creative",
-   "subcategory": "image-prompts",
-   "subcategory_label": "Image prompts",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [
-    "image.generate"
-   ],
-   "uses": [
-    "Images"
-   ],
-   "package": "packages/post-image-maker.vool.json",
-   "package_sha256": "9434b4220461f4d52e8f25287749c923bdbf43957a2588f9aeba8992c18d283b",
-   "package_bytes": 8246
   },
   {
    "id": "vool-team/price-compare",
@@ -1241,35 +1091,6 @@
    "package_bytes": 7891
   },
   {
-   "id": "vool-team/quick-video-edit",
-   "folder": "skills/quick-video-edit",
-   "title": "Quick video edit",
-   "summary": "Trim, crop and reshape a video for a post (square, tall or wide) and export a new copy.",
-   "version": "1.0.0",
-   "category": "creative",
-   "category_label": "Creative",
-   "subcategory": "video-scripts",
-   "subcategory_label": "Video, scripts & editing",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [
-    "media.open",
-    "media.inspect",
-    "media.edit",
-    "media.undo",
-    "media.redo",
-    "media.export"
-   ],
-   "uses": [
-    "Media Studio"
-   ],
-   "package": "packages/quick-video-edit.vool.json",
-   "package_sha256": "b874bdee6e4d467964d1faad3aa0d1d5d9133a2e7d3f7167879975515a5d2d45",
-   "package_bytes": 9523
-  },
-  {
    "id": "vool-team/readme-writer",
    "folder": "skills/readme-writer",
    "title": "README writer",
@@ -1328,36 +1149,6 @@
    "package": "packages/redact-before-sharing.vool.json",
    "package_sha256": "3b4aa03ade5cdd795b791c9c552ab244a8d0638bf2ef1d63ca137af76175cbe2",
    "package_bytes": 8945
-  },
-  {
-   "id": "vool-team/repo-explainer",
-   "folder": "skills/repo-explainer",
-   "title": "Project explainer",
-   "summary": "Walk through a code project in your workspace and explain how it fits together, with file references. Read-only.",
-   "version": "1.0.0",
-   "category": "coding",
-   "category_label": "Coding",
-   "subcategory": "docs",
-   "subcategory_label": "Docs",
-   "languages": [
-    "en"
-   ],
-   "needs": [
-    "files"
-   ],
-   "tools": [
-    "workspace.identity",
-    "workspace.list_tree",
-    "workspace.read_file",
-    "workspace.search_text",
-    "workspace.symbol_search"
-   ],
-   "uses": [
-    "Project folder"
-   ],
-   "package": "packages/repo-explainer.vool.json",
-   "package_sha256": "f70d918a608582efb90afc94dce11545ccf6dd1963548e07f29c586ee610317c",
-   "package_bytes": 9718
   },
   {
    "id": "vool-team/report-outline",
@@ -1581,7 +1372,7 @@
    "id": "vool-team/study-flashcards",
    "folder": "skills/study-flashcards",
    "title": "Study flashcards",
-   "summary": "Make question-and-answer flashcards and a short self-test from your study notes.",
+   "summary": "Make flashcards and a self-test from your study notes, or a study pack from a chapter you paste.",
    "version": "1.0.0",
    "category": "research-learning",
    "category_label": "Research & learning",
@@ -1594,8 +1385,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/study-flashcards.vool.json",
-   "package_sha256": "bd7272a0f22144d6195067358a83104481ecc46097384efa0e4830a6579abd1a",
-   "package_bytes": 8302
+   "package_sha256": "678c469a37d45c5df92a9f87a011b82d0717fd1c324e3ab06020756e436c9fd5",
+   "package_bytes": 12150
   },
   {
    "id": "vool-team/tax-notes-organizer",
@@ -1616,35 +1407,6 @@
    "package": "packages/tax-notes-organizer.vool.json",
    "package_sha256": "9d6084dd9698fabadc42e395220c6da9dd67da12e79c0f3c4780b4594232d5b9",
    "package_bytes": 8703
-  },
-  {
-   "id": "vool-team/test-failure-helper",
-   "folder": "skills/test-failure-helper",
-   "title": "Test failure helper",
-   "summary": "Run your project's tests, find why one fails and explain the likely cause. Changes no code.",
-   "version": "1.0.0",
-   "category": "coding",
-   "category_label": "Coding",
-   "subcategory": "debugging",
-   "subcategory_label": "Debugging",
-   "languages": [
-    "en"
-   ],
-   "needs": [
-    "files"
-   ],
-   "tools": [
-    "workspace.run_tests",
-    "workspace.read_file",
-    "workspace.search_text",
-    "workspace.git_diff"
-   ],
-   "uses": [
-    "Project folder"
-   ],
-   "package": "packages/test-failure-helper.vool.json",
-   "package_sha256": "5f4c403418f86e664455f3435c2c5fa3a90ec8f8b18e3b29d90519d385cf8623",
-   "package_bytes": 9595
   },
   {
    "id": "vool-team/transaction-explainer",
@@ -1740,7 +1502,7 @@
    "id": "vool-team/weekly-plan",
    "folder": "skills/weekly-plan",
    "title": "Weekly plan",
-   "summary": "Turn your task list and fixed commitments into a realistic plan for the week.",
+   "summary": "Turn your tasks and fixed commitments into a realistic plan for the week, or for today.",
    "version": "1.0.0",
    "category": "productivity",
    "category_label": "Productivity",
@@ -1753,8 +1515,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/weekly-plan.vool.json",
-   "package_sha256": "efb501043ff9ad95a8951ba9495b3136330dde9950b1aebb20e7e17149267875",
-   "package_bytes": 7486
+   "package_sha256": "3ed8a18782fbeef59e2b65e306875f834e29281dd62fcf2dcce21a7a618a6cce",
+   "package_bytes": 11832
   },
   {
    "id": "vool-team/what-vool-knows",
