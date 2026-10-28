@@ -1,6 +1,7 @@
 ---
 name: formal-request-letter
 description: Write a clear, polite letter to a landlord, insurer, school or service asking for what you need. Use when the user needs a formal written request about repairs, claims, records or paperwork.
+triggers: [letter to my landlord, write a formal letter, formal complaint letter, request letter, write to the council, ask the insurer in writing, letter asking for repairs]
 license: MIT
 ---
 

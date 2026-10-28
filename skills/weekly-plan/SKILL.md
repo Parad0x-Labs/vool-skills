@@ -1,6 +1,7 @@
 ---
 name: weekly-plan
 description: Turns a task list and fixed commitments into a realistic plan for the week. Use when the user lists what must happen this week and wants it placed across the days.
+triggers: [plan out my week, weekly schedule, fit everything in this week, sort out my week, block out my week, plan around appointments, spread these tasks out]
 license: MIT
 ---
 

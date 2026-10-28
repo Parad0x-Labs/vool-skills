@@ -1,6 +1,7 @@
 ---
 name: social-post-drafts
 description: Turns an idea or update into three short post drafts of different lengths. Use when the user has news to share and wants ready-to-post text to choose from.
+triggers: [social media post, write a post, post ideas, post drafts, instagram caption, write a tweet, announcement post]
 license: MIT
 ---
 

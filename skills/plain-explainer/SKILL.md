@@ -1,6 +1,7 @@
 ---
 name: plain-explainer
 description: Explains a hard text the user pastes in plain words, with key terms and a one-line takeaway. Use when the user wants a difficult passage or document made understandable.
+triggers: [what does this text mean, put this in simple terms, put this in plain english, simplify this document, explain this jargon, explain the small print, in words I can understand, what is this passage saying, in normal words, language I understand]
 license: MIT
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: hacked-account-steps
 description: Calm, ordered steps to take back control after an account or password leak. Use when the user says an account was hacked or a password leaked and needs to know what to do first.
+triggers: [someone is using my account, account got hacked, my account was compromised, password got stolen, password leak, someone changed my password, email account taken over, think I was phished]
 license: MIT
 ---
 

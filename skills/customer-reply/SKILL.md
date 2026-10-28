@@ -1,6 +1,7 @@
 ---
 name: customer-reply
 description: Drafts a calm, helpful answer to a customer message using only facts the user provides. Use when the user pastes a customer complaint or question and needs a professional reply.
+triggers: [reply to this customer, answer this customer complaint, respond to a complaint, handle this complaint, customer is angry, reply to a bad review, professional reply to a customer]
 license: MIT
 ---
 

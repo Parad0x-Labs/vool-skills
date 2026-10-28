@@ -1,6 +1,7 @@
 ---
 name: short-video-script
 description: Writes a short video script from your idea as a scene table with time, visuals, narration and on-screen text, all in original words. Use when the user wants a short script for a clip, a teaser or an explainer video and gives the idea and a rough length.
+triggers: [video script, script for a short clip, tiktok script, reel script, youtube short script, storyboard my video, explainer video script, write the script]
 license: MIT
 ---
 

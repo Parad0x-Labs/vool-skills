@@ -1,6 +1,7 @@
 ---
 name: study-flashcards
 description: Makes question-and-answer flashcards and a short self-test from study notes the user pastes. Use when the user is learning material and wants to check what they remember.
+triggers: [make flashcards, quiz me, revision cards, study cards, flashcards from my notes, revise for my exam, test myself on these notes]
 license: MIT
 ---
 

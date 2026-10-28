@@ -1,6 +1,7 @@
 ---
 name: price-data-reader
 description: Describes what pasted price figures show, such as changes, range, highs and lows, with the arithmetic shown and no predictions. Use when the user pastes price numbers for an asset or a product and wants a plain summary of what the figures say.
+triggers: [summarise this price data, prices up or down, closing prices, how much did the price change, highs and lows, what does this price trend show, what do these figures show, compare the price figures, work out the average price, compare price lists]
 license: MIT
 ---
 

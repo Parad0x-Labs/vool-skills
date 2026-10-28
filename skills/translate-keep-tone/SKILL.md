@@ -1,6 +1,7 @@
 ---
 name: translate-keep-tone
 description: Translates text into another language while keeping its tone and meaning, and notes how idioms were handled. Use when the user pastes text, names a target language, and wants a faithful version.
+triggers: [put this in spanish, put this in german, translate into french, german version, translate this message, translate an email, faithful translation, keep the tone, same tone]
 license: MIT
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: code-review-notes
 description: Reviews a pasted code change for bugs, risks and readability, ordered by severity. Use when the user shares a diff or snippet and wants a second look before finishing it.
+triggers: [code review, review my diff, look over my code, second pair of eyes on this code, any problems with this code, check my code before i commit, review this pull request, spot any problems, cast an eye over my code]
 license: MIT
 ---
 

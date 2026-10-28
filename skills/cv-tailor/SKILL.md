@@ -1,6 +1,7 @@
 ---
 name: cv-tailor
 description: Match your CV to a job post and see what to highlight, what to reword and what is missing. Use when the user is applying for a job with their CV and the post at hand.
+triggers: [tailor my resume, match my resume to the job, what should i change on my resume, tweak my resume for this role, does my resume fit the job, update my cv for this job, adapt my cv to the job post]
 license: MIT
 ---
 

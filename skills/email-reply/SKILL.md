@@ -1,6 +1,7 @@
 ---
 name: email-reply
 description: Drafts a clear, polite reply to an email the user pastes, in the tone the user chooses. Use when the user shares an email they received and wants help writing a reply to it.
+triggers: [reply to this email, answer this email, draft a reply, polite reply, respond to the message, help me reply, email response]
 license: MIT
 ---
 

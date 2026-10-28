@@ -1,6 +1,7 @@
 ---
 name: buying-checklist
 description: Work out what matters for a purchase and compare the options you are considering. Use when the user is deciding between options for a purchase and wants a clear comparison.
+triggers: [help me decide which to buy, compare these options, choose between two phones, pros and cons of each option, compare before i buy, decide between these laptops, which laptop is better, help me pick a laptop]
 license: MIT
 ---
 

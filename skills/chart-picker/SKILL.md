@@ -1,6 +1,7 @@
 ---
 name: chart-picker
 description: Suggests the clearest chart for your data and your question, with axis labels, a title and what to avoid. Use when the user has data and a question and wants to know which chart to use and how to label it.
+triggers: [best chart for my data, bar chart or line chart, pie chart or bar chart, how to visualise this data, show this in a graph, pick a chart, chart these sales figures]
 license: MIT
 ---
 

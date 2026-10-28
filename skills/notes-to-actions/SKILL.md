@@ -1,6 +1,7 @@
 ---
 name: notes-to-actions
 description: Turns messy notes into a short summary and a clear list of next steps. Use when the user pastes rough meeting or project notes and wants them put in order.
+triggers: [action items, action items from the notes, sort out my notes, tidy up my notes, summarise my notes, turn scribbles into tasks, pull the decisions out of my notes]
 license: MIT
 ---
 

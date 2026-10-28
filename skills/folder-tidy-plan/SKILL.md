@@ -1,6 +1,7 @@
 ---
 name: folder-tidy-plan
 description: Suggests a folder structure and naming rules from the file list you paste, with a mapping table from old names to new places. Moves nothing. Use when the user pastes a messy file list and wants a plan to tidy it up themselves.
+triggers: [tidy my files, organise my folders, folder structure, rename my files, file naming rules, clean up my downloads folder, messy file list]
 license: MIT
 ---
 

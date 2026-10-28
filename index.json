@@ -20,8 +20,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/account-safety-plan.vool.json",
-   "package_sha256": "676fc76196d4d5457b59619143addcf4fdc4a59d6bbae236c30bad2073ca7a95",
-   "package_bytes": 9316
+   "package_sha256": "ab981fde3f9eab1343817c9a5bee06a97e598a4f50c35159dec3a022574d3c72",
+   "package_bytes": 9588
   },
   {
    "id": "vool-team/bill-explainer",
@@ -40,8 +40,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/bill-explainer.vool.json",
-   "package_sha256": "c322a3fe0a52f2ac3fe715cf7f0eacffa9e69751c862e2e030b6280f709ce2a5",
-   "package_bytes": 9412
+   "package_sha256": "9596b0d27ee59235ffb1d154ed59548e24ba2ca0c45eab56054fa5f0471e674d",
+   "package_bytes": 9632
   },
   {
    "id": "vool-team/blog-post-builder",
@@ -60,8 +60,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/blog-post-builder.vool.json",
-   "package_sha256": "1f23e16df01e03643cd0c7694b9bdf7a9fe5b6266785b879a85224d9807f43f7",
-   "package_bytes": 8655
+   "package_sha256": "1fc8ce2b62174e87d7430485c6b0baa695ee5c1fe71fb03a3e364d0fa85c1d97",
+   "package_bytes": 8959
   },
   {
    "id": "vool-team/brand-kit-ideas",
@@ -80,8 +80,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/brand-kit-ideas.vool.json",
-   "package_sha256": "8b713e9335825306a0acf1f17ef50a1f9920c60c0fb03b1e7296511210997be4",
-   "package_bytes": 8474
+   "package_sha256": "febca3acc2822caeb8b71d734b92a70622cc4baef505d1cb4c9f03e27aa01152",
+   "package_bytes": 8706
   },
   {
    "id": "vool-team/budget-from-spending",
@@ -100,8 +100,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/budget-from-spending.vool.json",
-   "package_sha256": "1b2015439a66180ab8d708fdfdd26da7e8f2b2e7a4cd225c761de38096cf043a",
-   "package_bytes": 9044
+   "package_sha256": "31fba913b9911387ad4b9c5dd7b1acb9362fa50c89d8fcb790425ea67435d795",
+   "package_bytes": 9336
   },
   {
    "id": "vool-team/bug-report-writer",
@@ -120,8 +120,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/bug-report-writer.vool.json",
-   "package_sha256": "17475322b1a85aab9f0339d7685b91b772751e3edfa36e1cc91cae4c073074e8",
-   "package_bytes": 7780
+   "package_sha256": "46a3d1c90a3d0740447f36533b1bba19712cab01be04123699c12f4fa557af26",
+   "package_bytes": 7996
   },
   {
    "id": "vool-team/build-log-reader",
@@ -140,8 +140,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/build-log-reader.vool.json",
-   "package_sha256": "ce472026834d0e9267e6f6ae675cc411bed4dedc85f192b17d4ae762454986b9",
-   "package_bytes": 8412
+   "package_sha256": "51381eac109f7d7f95e66f933b4e13946caff84aaea81404011fe374bcb02a0c",
+   "package_bytes": 8644
   },
   {
    "id": "vool-team/buying-checklist",
@@ -160,8 +160,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/buying-checklist.vool.json",
-   "package_sha256": "b0d09d357fd1e9fd13cf5a74c53fd85bd475c5741d1748b5b7e5168cba6cb1a5",
-   "package_bytes": 9661
+   "package_sha256": "8d3a4c26c36671c1ba1d06721103ad78432a9cdb905fc4f059deae38f60b6086",
+   "package_bytes": 9953
   },
   {
    "id": "vool-team/chart-picker",
@@ -180,8 +180,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/chart-picker.vool.json",
-   "package_sha256": "e6500c7ace46f53d2ad9cb037a30cf5f096aa1bbc14a7a4c356b3e9473de9470",
-   "package_bytes": 7873
+   "package_sha256": "017dee4c11b3c476abc9bcfa63b9d42ba737d841cab11423f781a1f5efd17f7d",
+   "package_bytes": 8109
   },
   {
    "id": "vool-team/chore-rota",
@@ -200,8 +200,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/chore-rota.vool.json",
-   "package_sha256": "7b6bf3a085e1056e27b479b80a8a6aabff8a73c05cc4f035de39ce8974d4e37b",
-   "package_bytes": 8193
+   "package_sha256": "9c026876e2808f19e67a709dda7bdb65d6960b40a5f86ae1b6e95317a0846b3c",
+   "package_bytes": 8493
   },
   {
    "id": "vool-team/claim-check",
@@ -220,8 +220,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/claim-check.vool.json",
-   "package_sha256": "c14c4cddb1c65776b9c26d75724eee3cf7478b0c02485eb96b15ab7922619975",
-   "package_bytes": 8402
+   "package_sha256": "b07b92b22ae4d871055e938f79f814724c942f2c4c1cc283eac59551ac654034",
+   "package_bytes": 8662
   },
   {
    "id": "vool-team/code-review-notes",
@@ -240,8 +240,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/code-review-notes.vool.json",
-   "package_sha256": "2e105291142568b5bafa24646ba378e4f211f5b90984114ca439443a78678f96",
-   "package_bytes": 7812
+   "package_sha256": "2eb6253170125b457b35f638b04f277ba42a88a430122be77ff5a5111c8a093a",
+   "package_bytes": 8112
   },
   {
    "id": "vool-team/command-explainer",
@@ -260,8 +260,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/command-explainer.vool.json",
-   "package_sha256": "f06ca8a6cc0bedbcda2bb289a8e96994093ad3ef0715055d2ab8a9c38f3662ce",
-   "package_bytes": 8022
+   "package_sha256": "05ea90d8ae871a1cf96b7c2ac7ac3896325fb46e103717728368cd83c1cd5e9f",
+   "package_bytes": 8314
   },
   {
    "id": "vool-team/contacts-tidy",
@@ -305,8 +305,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/contract-summary.vool.json",
-   "package_sha256": "c4c86275ccd097ab6d19c59ece47b98a0739e6e1b52a3a85897ee3e6df3824de",
-   "package_bytes": 9078
+   "package_sha256": "beae2181b8a97b4e7c14e6994bfe7dac3369d6dbee44a369fcdcb9dc239b34f5",
+   "package_bytes": 9394
   },
   {
    "id": "vool-team/cover-letter-writer",
@@ -325,8 +325,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/cover-letter-writer.vool.json",
-   "package_sha256": "b001ce0ae5c0f3a1db37fe356c0bdcf04d91b7ab375f01a33077b738321db09c",
-   "package_bytes": 8577
+   "package_sha256": "d9fd6d3d93ab27713330d512e6b91d3bf0f1f55ecc184113ad58ba77008c70fa",
+   "package_bytes": 8793
   },
   {
    "id": "vool-team/creative-series",
@@ -402,8 +402,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/customer-reply.vool.json",
-   "package_sha256": "d0c063be43f6c8ec16bf5f369b71372cb29b80846747908ca5fd0b8286e0e9ce",
-   "package_bytes": 7423
+   "package_sha256": "cfc3ba2cf951c1f7e5dd65c7cc74cefa2a56ca7c7b16cead8a7fb2c6e8275c11",
+   "package_bytes": 7675
   },
   {
    "id": "vool-team/cv-tailor",
@@ -422,8 +422,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/cv-tailor.vool.json",
-   "package_sha256": "b79dc4918ca557c70ddcf709523599a3f3bffafab9c9fc3f6cc16dab6638a050",
-   "package_bytes": 9256
+   "package_sha256": "c71f6aacd59d63ed15070c02efd5cd0ab24f7e91afa827f4706dd409386f8705",
+   "package_bytes": 9532
   },
   {
    "id": "vool-team/data-cleanup-plan",
@@ -442,8 +442,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/data-cleanup-plan.vool.json",
-   "package_sha256": "8800678e4c88bbf55e8c3ada340d6b6a4679c1b0a8fa7db118785887d4902c8d",
-   "package_bytes": 8533
+   "package_sha256": "c59b5602612ab201432672c346889b9a574f88ad7f0e2dd49b80fe2240589cdb",
+   "package_bytes": 8821
   },
   {
    "id": "vool-team/day-planner",
@@ -546,8 +546,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/email-reply.vool.json",
-   "package_sha256": "5ddcda62f0646c90ec7791a06b5b43eac3a74f82893268bb921dce2de3cb3164",
-   "package_bytes": 7942
+   "package_sha256": "c9694531c6fc5a7138ea6997bfac714595324c443a6e9cea25557c48b5ccd151",
+   "package_bytes": 8122
   },
   {
    "id": "vool-team/email-to-calendar",
@@ -593,8 +593,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/folder-tidy-plan.vool.json",
-   "package_sha256": "1f39657bc6a9d053e25d4bafb29cd9b429fd7f6b6fe37667dcc4e103cffccb70",
-   "package_bytes": 8344
+   "package_sha256": "72940fbe82f4c7375d5224bd5abe3ebeb95992c5b73333a63e849e79b36bb6bb",
+   "package_bytes": 8540
   },
   {
    "id": "vool-team/follow-up-planner",
@@ -613,8 +613,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/follow-up-planner.vool.json",
-   "package_sha256": "484731fc1d0c70aea572ed07264ade39b514ef765a374a42fb65399c4f3edd45",
-   "package_bytes": 8421
+   "package_sha256": "a1d766e531d15f307ce02f26935839d115c094c48da21fd38ec4affcfb775bed",
+   "package_bytes": 8673
   },
   {
    "id": "vool-team/formal-request-letter",
@@ -633,8 +633,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/formal-request-letter.vool.json",
-   "package_sha256": "7ab65b24e308b611498b5438bcad85b234b0761000ce5adcdb7f48c53127e2e1",
-   "package_bytes": 9431
+   "package_sha256": "28ce07c4d5304449f0baede0a217c992f38325e402d79320a456ac50087373d3",
+   "package_bytes": 9667
   },
   {
    "id": "vool-team/formula-helper",
@@ -653,8 +653,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/formula-helper.vool.json",
-   "package_sha256": "5fb3d6ebb6d446ce160e8d8d05c68b8b3c8d221d129e703471b26692d303a39a",
-   "package_bytes": 8158
+   "package_sha256": "976861a257ed173d765f8ae37c45a8f3acccccfd1d1095436a4a28c51a885336",
+   "package_bytes": 8362
   },
   {
    "id": "vool-team/gentle-workout-plan",
@@ -725,8 +725,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/hacked-account-steps.vool.json",
-   "package_sha256": "18426523e24609e2b766fe0f285f9caabc26db18484a985efddd3f9c531fb16f",
-   "package_bytes": 10648
+   "package_sha256": "d91035e2f13065e40fd7363d4c890f9a6bc17e78c003d8ec9d9f6ea798d9b026",
+   "package_bytes": 10916
   },
   {
    "id": "vool-team/image-prompt-builder",
@@ -745,8 +745,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/image-prompt-builder.vool.json",
-   "package_sha256": "1e539e44a9cdf9e2ac5bb804b89e2208feefa79c396e145b8c739b4a438b2046",
-   "package_bytes": 8183
+   "package_sha256": "87143a73d5053ed38f395849540eddb33693b64e16eefe472c484fa323bf2e1f",
+   "package_bytes": 8387
   },
   {
    "id": "vool-team/inbox-triage",
@@ -792,8 +792,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/invoice-writer.vool.json",
-   "package_sha256": "127efa2e0d7fdb14d50545f3a146558c4e5a73161d8d98c7b27a5b4c2464985a",
-   "package_bytes": 9319
+   "package_sha256": "5b55c6147bf7d136e937d65ea4c84eeebbcfb66ca374fc6d1849c2009c55c2f1",
+   "package_bytes": 9543
   },
   {
    "id": "vool-team/job-post-writer",
@@ -812,8 +812,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/job-post-writer.vool.json",
-   "package_sha256": "425f693c168796f9570f6466916cd767424ff770a30da13bb9ce17f94c46bf9e",
-   "package_bytes": 8281
+   "package_sha256": "05239e59709b058e668879b4a3e3ff492c88d13c7596c11ccea43d0433a502ee",
+   "package_bytes": 8481
   },
   {
    "id": "vool-team/meal-plan-from-pantry",
@@ -832,8 +832,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/meal-plan-from-pantry.vool.json",
-   "package_sha256": "ba48f48d05fe37e03441fdad87ca870ca0272eb1411ad8044a155ff661ed5d2c",
-   "package_bytes": 8561
+   "package_sha256": "b1a514837b4765c2a20fb5dfa4de51f894a73815552abb2108afbfd401e53ea7",
+   "package_bytes": 8877
   },
   {
    "id": "vool-team/meeting-agenda",
@@ -852,8 +852,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/meeting-agenda.vool.json",
-   "package_sha256": "21051b1ca353de3f9f0a6841bda0ad06e107f1502ffb7e9118addc0ec1adcc66",
-   "package_bytes": 7313
+   "package_sha256": "43b9b17f47f4c51f14c430beafc177a18130af530eab6aab2ef928452e086d0e",
+   "package_bytes": 7533
   },
   {
    "id": "vool-team/meeting-follow-up",
@@ -900,8 +900,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/newsletter-writer.vool.json",
-   "package_sha256": "beb37de8f7457a3f0ba64ab8b47e6d3c01f0de9ea00779114a56f2bbafdf2890",
-   "package_bytes": 7955
+   "package_sha256": "9645ca733d4311d21ca386bf2f27bd2d2bfa780f5b28b10fe5aa442d733fb042",
+   "package_bytes": 8207
   },
   {
    "id": "vool-team/notes-digest",
@@ -947,8 +947,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/notes-to-actions.vool.json",
-   "package_sha256": "db849a997314178110ed08efd40709bbcdcbac13fca60cd95b34162d6370b33b",
-   "package_bytes": 7131
+   "package_sha256": "6b4d8520ea4ad666da31771abf659e4b16b7b3b31ef45f6889add3ee5631cd28",
+   "package_bytes": 7363
   },
   {
    "id": "vool-team/outreach-writer",
@@ -967,8 +967,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/outreach-writer.vool.json",
-   "package_sha256": "24b2023310a291abc60f792dc36d3b439fd353174621bd0e914f3d6e16f91552",
-   "package_bytes": 7930
+   "package_sha256": "51e154673501745b6a87f320d34d8d704fa694181368e58f646d5d9947c2f0bd",
+   "package_bytes": 8246
   },
   {
    "id": "vool-team/page-reader",
@@ -1124,8 +1124,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/plain-explainer.vool.json",
-   "package_sha256": "8cb3e20908b5364f0c9f9243bfc62704dd4aea0f32228dd7d44ac5af6ca3a00c",
-   "package_bytes": 8456
+   "package_sha256": "8446e044c63d2ca753cb95ba5154cfe67c51ca0459e8491ec08efebfbff86320",
+   "package_bytes": 8796
   },
   {
    "id": "vool-team/post-image-maker",
@@ -1197,8 +1197,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/price-data-reader.vool.json",
-   "package_sha256": "8c2927e28c7c0ed0fa46224d29c7f91086568868849ddec1d5321ee38f4e6b4d",
-   "package_bytes": 8296
+   "package_sha256": "ab8863f6a30a6a2fe8adb12227537fa9f8cf9208842960ce013402603734f07a",
+   "package_bytes": 8640
   },
   {
    "id": "vool-team/privacy-checkup",
@@ -1217,8 +1217,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/privacy-checkup.vool.json",
-   "package_sha256": "b8254d5f423048dd4b9642b92524426e024f3df8eff3a096f50c5c448d82fba0",
-   "package_bytes": 9019
+   "package_sha256": "88902fc7efbb2023cc34d3577d90687ce0bb50e3f3fd6f04d79a5c20865903c3",
+   "package_bytes": 9267
   },
   {
    "id": "vool-team/proofread-plain",
@@ -1237,8 +1237,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/proofread-plain.vool.json",
-   "package_sha256": "d7b1e99e28bcb61e4fcaa4a2f622eb9da2b091d4c630d6eae13345a7dec71843",
-   "package_bytes": 7711
+   "package_sha256": "dfd729907b32f7a8983a544d47f79d2d635037018e740977642c6e6c601a17d2",
+   "package_bytes": 7891
   },
   {
    "id": "vool-team/quick-video-edit",
@@ -1286,8 +1286,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/readme-writer.vool.json",
-   "package_sha256": "e199f398913feb76636ebf4137598d197a50fbe2f6f7a9813de816d15c3f3305",
-   "package_bytes": 7698
+   "package_sha256": "01c7f604bafd26cc0fab53313344863c5a1847bd077179d304d49fe0c5564b5f",
+   "package_bytes": 7878
   },
   {
    "id": "vool-team/receipt-organizer",
@@ -1306,8 +1306,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/receipt-organizer.vool.json",
-   "package_sha256": "7d2c5c3964617d5e7d1f5fc31fd5deb6ff79d9d8eac79e8c23e348d1c03d3df6",
-   "package_bytes": 8568
+   "package_sha256": "eec7b2fe7f36f177db3223bdfe3889b188d6fdcf6b748b3b84adaee0218b2a6c",
+   "package_bytes": 8760
   },
   {
    "id": "vool-team/redact-before-sharing",
@@ -1326,8 +1326,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/redact-before-sharing.vool.json",
-   "package_sha256": "4866bc00e9078c4b8fa697a5fc15c93bacb4a3202faa8f59b3ca79ccab7728fb",
-   "package_bytes": 8717
+   "package_sha256": "3b4aa03ade5cdd795b791c9c552ab244a8d0638bf2ef1d63ca137af76175cbe2",
+   "package_bytes": 8945
   },
   {
    "id": "vool-team/repo-explainer",
@@ -1376,8 +1376,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/report-outline.vool.json",
-   "package_sha256": "0fbcb6e5c8c69936d5bd6347861b4967c7be57cb7b634b8521db7b5b131bb777",
-   "package_bytes": 8092
+   "package_sha256": "963ca089343304b5aa113ac7e38c13cbaaf089493ce482d32603dd303acce2d7",
+   "package_bytes": 8308
   },
   {
    "id": "vool-team/research-brief",
@@ -1426,8 +1426,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/return-refund-helper.vool.json",
-   "package_sha256": "a09a4de88f59edc3c1f2cc9ce3ae5c9638c0f22e9b17c77f4f8e0af66c833619",
-   "package_bytes": 10118
+   "package_sha256": "6534f57b4d9afba3d92827dadca8178dcaf56d7af402be69c7ee98d333043e69",
+   "package_bytes": 10310
   },
   {
    "id": "vool-team/scam-check",
@@ -1446,8 +1446,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/scam-check.vool.json",
-   "package_sha256": "e68ee0a6a4db7da324b99c4837c41b4d6954745e921049d771913e595ed9802f",
-   "package_bytes": 10321
+   "package_sha256": "60dd4566b8257c45b26501ab481d96d535885f892118b03caf1f9b385ec5004d",
+   "package_bytes": 10501
   },
   {
    "id": "vool-team/short-video-script",
@@ -1466,8 +1466,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/short-video-script.vool.json",
-   "package_sha256": "1728692a4669468717de65c8d9af8086de0a3d4f8f0de017937fc50f796e445e",
-   "package_bytes": 8296
+   "package_sha256": "08e3c5d044147ccb46300577c2bfa2483daf8a3cbe07c8bd29854e7bb765f865",
+   "package_bytes": 8512
   },
   {
    "id": "vool-team/slide-design-plan",
@@ -1486,8 +1486,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/slide-design-plan.vool.json",
-   "package_sha256": "c78cc9f02bba6f8f6d9e2b9a12cb880cf196c5b3db5a344f5dad55fd6c6f4575",
-   "package_bytes": 9053
+   "package_sha256": "56df2937ff05425729c77322c460d42413e2059c5e2d0639d7f753bd6c8c30a0",
+   "package_bytes": 9249
   },
   {
    "id": "vool-team/social-manager",
@@ -1534,8 +1534,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/social-post-drafts.vool.json",
-   "package_sha256": "daa5219848899fa82d586f549308c770b68beb6117be5e86d36469cb3b64961a",
-   "package_bytes": 7573
+   "package_sha256": "529fa6c5f436e4fc4b2422dbbf0d457a4db272da4d26061b2440c9642e4d81f0",
+   "package_bytes": 7733
   },
   {
    "id": "vool-team/song-lyrics-starter",
@@ -1554,8 +1554,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/song-lyrics-starter.vool.json",
-   "package_sha256": "de19bde641f7dd743be96473431f0b23082f73b1884ea40401830b3928b46752",
-   "package_bytes": 8134
+   "package_sha256": "13fe5bfe2dabf441ed66419976461a487c88648feb929aa0de9c29a0537c7ffd",
+   "package_bytes": 8294
   },
   {
    "id": "vool-team/sql-explainer",
@@ -1574,8 +1574,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/sql-explainer.vool.json",
-   "package_sha256": "8cc07303edd029312c67b0a9c6c3c1a4a71d24e94bdbf18f72f8525b66ec1f90",
-   "package_bytes": 8864
+   "package_sha256": "fba03b8cf47615612e1e0ede76b7ce7a5560d5e92af43c42ad7638e84ae01828",
+   "package_bytes": 9052
   },
   {
    "id": "vool-team/study-flashcards",
@@ -1594,8 +1594,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/study-flashcards.vool.json",
-   "package_sha256": "14b6fdeec02d694c67564238eae9f54ba58d11e2dd67531d7d1d6f2aef60478d",
-   "package_bytes": 8114
+   "package_sha256": "bd7272a0f22144d6195067358a83104481ecc46097384efa0e4830a6579abd1a",
+   "package_bytes": 8302
   },
   {
    "id": "vool-team/tax-notes-organizer",
@@ -1614,8 +1614,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/tax-notes-organizer.vool.json",
-   "package_sha256": "0b1582c46852ca8debef749320590d7b5c2616f1b3d3d60a75d1a18652cc2e89",
-   "package_bytes": 8443
+   "package_sha256": "9d6084dd9698fabadc42e395220c6da9dd67da12e79c0f3c4780b4594232d5b9",
+   "package_bytes": 8703
   },
   {
    "id": "vool-team/test-failure-helper",
@@ -1663,8 +1663,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/transaction-explainer.vool.json",
-   "package_sha256": "9ac79c5dee8833c66451f3a6e4efcb9fc39747984e0cbb89a0d6866dc35067ac",
-   "package_bytes": 9622
+   "package_sha256": "0b78513b86bb48022664fde6d64da1d0d4c5c05e93c394fdd817df1bc03826d5",
+   "package_bytes": 9818
   },
   {
    "id": "vool-team/translate-keep-tone",
@@ -1683,8 +1683,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/translate-keep-tone.vool.json",
-   "package_sha256": "dd83b788802348ff8fb9ec41d37f49de80807aacbed26e56232f493a02752307",
-   "package_bytes": 7420
+   "package_sha256": "b84b129a9a6e44d140bf43e675570d8ebe44fa2ceb79e89e95809c54da644125",
+   "package_bytes": 7664
   },
   {
    "id": "vool-team/trip-packing-list",
@@ -1703,8 +1703,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/trip-packing-list.vool.json",
-   "package_sha256": "0c1a45eb64597cc339dd11ee2c3a95751805de8f72c85f95e66dbf56c7fa01e6",
-   "package_bytes": 8689
+   "package_sha256": "ffdee46a674106165e915736aa69904cf209843caec47fe0bbed99b33175d027",
+   "package_bytes": 8909
   },
   {
    "id": "vool-team/wallet-explainer",
@@ -1753,8 +1753,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/weekly-plan.vool.json",
-   "package_sha256": "5e8ee45d47f7cbab77998b9447f0ea014357937759bf7389464dc55209f5601f",
-   "package_bytes": 7270
+   "package_sha256": "efb501043ff9ad95a8951ba9495b3136330dde9950b1aebb20e7e17149267875",
+   "package_bytes": 7486
   },
   {
    "id": "vool-team/what-vool-knows",

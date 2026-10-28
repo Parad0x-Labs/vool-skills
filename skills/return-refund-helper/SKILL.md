@@ -1,6 +1,7 @@
 ---
 name: return-refund-helper
 description: Prepare a return or refund request from your order details, with the right tone and facts. Use when the user wants to ask a seller for a refund, replacement or return.
+triggers: [get my money back, refund request, return an item, item arrived damaged, ask for a replacement, return window, send the order back]
 license: MIT
 ---
 

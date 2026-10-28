@@ -1,6 +1,7 @@
 ---
 name: scam-check
 description: Paste a message, offer or call script and get the warning signs and what to do next. Use when the user pastes a suspicious message, offer or call script and wants it checked for scam signs.
+triggers: [is this a scam, is this legit, is this legitimate, phishing email, suspicious text, too good to be true, unexpected prize]
 license: MIT
 ---
 

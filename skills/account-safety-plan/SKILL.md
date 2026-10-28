@@ -1,6 +1,7 @@
 ---
 name: account-safety-plan
 description: Make a simple plan to secure your important accounts with sign-in checks, recovery steps and backups. Use when the user wants to harden the security of their main accounts, step by step.
+triggers: [secure my accounts, lock down my account, two factor authentication, turn on 2fa, account security plan, protect my email account, make my accounts safer, keep hackers out, make my logins safer]
 license: MIT
 ---
 

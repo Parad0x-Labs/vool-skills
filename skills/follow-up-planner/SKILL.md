@@ -1,6 +1,7 @@
 ---
 name: follow-up-planner
 description: "Turn your call or meeting notes into next steps and a polite follow-up sequence. Use when the user met or called a prospect or partner and wants next steps plus a short follow-up plan."
+triggers: [follow up after the call, follow up email, follow up sequence, next steps after the call, after the sales call, keep the conversation going, what to do after meeting a prospect]
 license: MIT
 ---
 

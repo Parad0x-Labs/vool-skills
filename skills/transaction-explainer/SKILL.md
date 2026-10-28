@@ -1,6 +1,7 @@
 ---
 name: transaction-explainer
 description: Explains a pasted crypto transaction or wallet message field by field in plain words, marks what is not shown, and points out warning signs such as unexpected approval requests. Use when the user pastes a transaction, a message from a wallet, or text about a crypto payment and wants to understand it.
+triggers: [explain this transaction, crypto transaction, wallet message, token approval, wallet transfer, confirm this transfer, approve spending]
 license: MIT
 ---
 
