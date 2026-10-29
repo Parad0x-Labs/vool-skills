@@ -1,7 +1,7 @@
 ---
 name: image-prompt-builder
 description: Turns your idea into a detailed image prompt with subject, setting, style, light, framing, mood and negatives, and can make the picture once you say go. Use when the user describes a picture they want made, such as an image for a post or announcement, and needs a clear, complete prompt or the image itself.
-triggers: [image prompt, midjourney prompt, stable diffusion prompt, prompt for dalle, ai art prompt, write a prompt for a picture, text to image idea, picture for my post, image for my post, picture for an announcement, make the picture, generate this image]
+triggers: [image prompt, midjourney prompt, stable diffusion prompt, prompt for dalle, ai art prompt, write a prompt for a picture, text to image idea, picture for my post, image for my post, picture for an announcement, make the picture, generate this image, illustration, ai image, generate an image, prompt for an image, image generator, artwork, poster image, describe the image, dalle, visual for my post]
 license: MIT
 ---
 

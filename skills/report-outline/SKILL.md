@@ -1,7 +1,7 @@
 ---
 name: report-outline
 description: Turns your findings and numbers into a short report outline with the key points first and the evidence after them. Use when the user has results or figures and wants a clean structure for a short written report.
-triggers: [report outline, outline my findings, structure my findings, key points first, organise my results, turn figures into a report, short report structure]
+triggers: [report outline, outline my findings, structure my findings, key points first, organise my results, turn figures into a report, short report structure, results section, structure a report, project report, summary report, executive summary, survey results, report structure, outline for a report, key findings, headings, sections of my report, structure for my report, report headings, lab report, experiment results, results write up, progress report, monthly report, turn my results into]
 license: MIT
 ---
 

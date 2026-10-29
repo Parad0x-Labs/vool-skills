@@ -1,7 +1,7 @@
 ---
 name: study-flashcards
 description: Makes question-and-answer flashcards and a short self-test from study notes the user pastes, or a full study pack (summary, key terms, cards, test) from a chapter or paper. Use when the user is learning material and wants to check what they remember.
-triggers: [make flashcards, quiz me, revision cards, study cards, flashcards from my notes, revise for my exam, test myself on these notes, study pack, flashcards from this pdf, quiz me on this chapter, key terms and summary, study this chapter]
+triggers: [make flashcards, quiz me, revision cards, study cards, flashcards from my notes, revise for my exam, test myself on these notes, study pack, flashcards from this pdf, quiz me on this chapter, key terms and summary, study this chapter, revision, revising, exam, exams, quiz, quizzes, cram, memorise, memorize, flash cards, practice questions, study notes, question cards, self test, lecture notes]
 license: MIT
 ---
 
