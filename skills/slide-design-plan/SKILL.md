@@ -1,6 +1,7 @@
 ---
 name: slide-design-plan
 description: "Plan a clear slide deck: one message per slide, layout, visuals and speaker notes. Use when the user knows roughly what a talk should cover and wants a slide-by-slide plan before building it."
+triggers: [slide deck, plan my slides, plan my presentation, presentation outline, slides for my talk, speaker notes for slides, how many slides, slides, powerpoint, keynote, presentation, pitch deck, talk outline, give a talk, deck outline, slide plan, what goes on each slide]
 license: MIT
 ---
 

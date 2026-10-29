@@ -1,6 +1,7 @@
 ---
 name: outreach-writer
 description: "Write a short, personal first message to a prospect from your offer and what you know about them. Use when the user wants one first outreach message drafted from material they supply."
+triggers: [cold email, cold email to a client, potential client, first message to a prospect, reach out to potential clients, introduce my services, cold outreach message, how to approach a new client, pitch my services, cold message, introduce myself, reach out to, approach a business, first contact, intro message, collaboration pitch, message a potential client, sell my services, pitch email, stockist, wholesale enquiry, partnership pitch, get new clients]
 license: MIT
 ---
 

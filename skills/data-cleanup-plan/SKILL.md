@@ -1,6 +1,7 @@
 ---
 name: data-cleanup-plan
 description: Looks at the sample rows you paste and lists the cleanup steps your data needs, ordered, with your own rows quoted as evidence. Use when the user pastes a sample of a dataset and asks what is wrong with it or how to clean it.
+triggers: [clean up my data, tidy up this dataset, what is wrong with my spreadsheet, find duplicates in my data, prepare my data for analysis, clean my mailing list, data cleanup steps, dates in different formats, messy dataset, inconsistent data, data quality, blank cells, mixed formats, standardise the columns, clean this csv, before importing the data, duplicate rows, messy spreadsheet, dirty data, typos in my data, cleanup steps, fix my data, sample rows, inconsistent spellings, empty rows, before migrating the data]
 license: MIT
 ---
 

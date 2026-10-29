@@ -1,6 +1,7 @@
 ---
 name: tax-notes-organizer
 description: Organizes pasted income and expense notes into a tidy grouped list with totals and a list of questions to bring to a tax professional. Use when the user has scattered tax notes and wants them sorted before meeting or sending them to a professional.
+triggers: [sort out my tax notes, tax notes, prepare for my accountant, income and expenses, expenses for my tax return, ready for tax season, organise my tax paperwork, organise my tax notes, tax, taxes, tax return, self assessment, accountant, bookkeeping, deductions, deductible, side income, self employed, self employment, freelance income, rental income, tax year, allowable expenses, hmrc, irs]
 license: MIT
 ---
 

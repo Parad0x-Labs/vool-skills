@@ -20,8 +20,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/account-safety-plan.vool.json",
-   "package_sha256": "156db8163a01a012eb3538a0b106eadfb0a5d442f50b36385369be877c6db6cb",
-   "package_bytes": 92366,
+   "package_sha256": "ac525a28623db04a0def56c13cd05ed54f8e280432a34a042676eae1f8f4247d",
+   "package_bytes": 93094,
    "icon": "skills/account-safety-plan/assets/icon.png",
    "banner": "skills/account-safety-plan/assets/banner.png"
   },
@@ -42,8 +42,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/bill-explainer.vool.json",
-   "package_sha256": "a1b2bbcc8d99ec44a0c159a97d4d47a9dfeb333ede3abdd75958ce1628cbac90",
-   "package_bytes": 83734,
+   "package_sha256": "b82b1c5934a3df6b8e0d354d462b2c386c2622bc7b81616fc96160cc0fe301a0",
+   "package_bytes": 84406,
    "icon": "skills/bill-explainer/assets/icon.png",
    "banner": "skills/bill-explainer/assets/banner.png"
   },
@@ -64,8 +64,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/blog-post-builder.vool.json",
-   "package_sha256": "00eb294c24e69fbef63f70befcf0585997ef870895e211582e2e3d3e7c93d893",
-   "package_bytes": 84433,
+   "package_sha256": "fc9ba0cbbc28ce9c8c33f462bc1b49fead7ccb1a5b099635b554fc7ce6e821a2",
+   "package_bytes": 85013,
    "icon": "skills/blog-post-builder/assets/icon.png",
    "banner": "skills/blog-post-builder/assets/banner.png"
   },
@@ -86,8 +86,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/brand-kit-ideas.vool.json",
-   "package_sha256": "d597a930284a80c98e16bcc2bd9b1b71dabb8317f01114f6eba8a089bcc5160e",
-   "package_bytes": 92212,
+   "package_sha256": "deb1f4031815ed301118120c0608bba1986d5aafb35261b5f1de8fec602cae7e",
+   "package_bytes": 92792,
    "icon": "skills/brand-kit-ideas/assets/icon.png",
    "banner": "skills/brand-kit-ideas/assets/banner.png"
   },
@@ -108,8 +108,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/budget-from-spending.vool.json",
-   "package_sha256": "3ffa5375a707a2bc3d9b64070258a1d3c94cd1ffd0677e38828832dbe18b4378",
-   "package_bytes": 92406,
+   "package_sha256": "7e3902c56e387762a05b13c601991ce02c359fc0c46b42d5930f605cc4510896",
+   "package_bytes": 93074,
    "icon": "skills/budget-from-spending/assets/icon.png",
    "banner": "skills/budget-from-spending/assets/banner.png"
   },
@@ -130,8 +130,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/bug-report-writer.vool.json",
-   "package_sha256": "bb5404524ef4b3fabdee622f69272a86da33e96345a7c6a6577de99062acfa38",
-   "package_bytes": 84318,
+   "package_sha256": "5b71507d31e1b5df069de805aa9ecf678bca07aaefd11bdb9d857f6e20f94534",
+   "package_bytes": 84926,
    "icon": "skills/bug-report-writer/assets/icon.png",
    "banner": "skills/bug-report-writer/assets/banner.png"
   },
@@ -152,8 +152,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/build-log-reader.vool.json",
-   "package_sha256": "01e2fe786d3bbc664931f6c2a1ed723b658a40a606cbc2e6fd035762de6176ea",
-   "package_bytes": 71410,
+   "package_sha256": "1c96ab464dbe0bc2114a54502577f946bf60b698cf2e5e3893a1c745aedc0572",
+   "package_bytes": 71974,
    "icon": "skills/build-log-reader/assets/icon.png",
    "banner": "skills/build-log-reader/assets/banner.png"
   },
@@ -174,8 +174,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/buying-checklist.vool.json",
-   "package_sha256": "db0e0d89cc90281fa8ab8047eb3eb92f757c979b20d0efa4736b35533395fb9e",
-   "package_bytes": 83391,
+   "package_sha256": "903dff71733f93a1dd4af571bcd649c0ad0655b8d8ab7fa8fb8d92668292c230",
+   "package_bytes": 83987,
    "icon": "skills/buying-checklist/assets/icon.png",
    "banner": "skills/buying-checklist/assets/banner.png"
   },
@@ -196,8 +196,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/chart-picker.vool.json",
-   "package_sha256": "ed85a3a626fc26eb384d182aad7838f87f24fd5bb7693533bf62c0e2e5ad29cf",
-   "package_bytes": 100951,
+   "package_sha256": "3bd9dd054aef30be17093935e2e476b9311fac002ba820ddf5399bf5df0b1617",
+   "package_bytes": 101479,
    "icon": "skills/chart-picker/assets/icon.png",
    "banner": "skills/chart-picker/assets/banner.png"
   },
@@ -218,8 +218,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/chore-rota.vool.json",
-   "package_sha256": "1e2c256969f98fdcf229492aaeecacaa635984b4d7bf71caf288e62633bf7d1f",
-   "package_bytes": 78483,
+   "package_sha256": "572e28e934d3d8c90061b43cc1cd3b7635317d9ac7dfd14bd037f0c2c2e823e1",
+   "package_bytes": 79051,
    "icon": "skills/chore-rota/assets/icon.png",
    "banner": "skills/chore-rota/assets/banner.png"
   },
@@ -240,32 +240,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/claim-check.vool.json",
-   "package_sha256": "036d9830f0d691f16a09845422479cd4eb6b95fd38e855f13d010a9496580a2a",
-   "package_bytes": 103844,
+   "package_sha256": "66606b7e60fd4b574ea498d1bc072b6d1179b81b78d01dc6040b5d8641dbadc3",
+   "package_bytes": 104316,
    "icon": "skills/claim-check/assets/icon.png",
    "banner": "skills/claim-check/assets/banner.png"
-  },
-  {
-   "id": "vool-team/code-review-notes",
-   "folder": "skills/code-review-notes",
-   "title": "Code review notes",
-   "summary": "Review a code change you paste for bugs, risks and readability, ordered by severity.",
-   "version": "1.0.1",
-   "category": "coding",
-   "category_label": "Coding",
-   "subcategory": "code-review",
-   "subcategory_label": "Code review",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [],
-   "uses": [],
-   "package": "packages/code-review-notes.vool.json",
-   "package_sha256": "324e93d7a432279ab143b6575e5ff0fe169a87f49858a5b7c34a20a8c3bbd19d",
-   "package_bytes": 82222,
-   "icon": "skills/code-review-notes/assets/icon.png",
-   "banner": "skills/code-review-notes/assets/banner.png"
   },
   {
    "id": "vool-team/command-explainer",
@@ -284,8 +262,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/command-explainer.vool.json",
-   "package_sha256": "39eabf43793560c6a7d0f55a7abf43ae75e9202c92071ff43ee45a49c9f886b1",
-   "package_bytes": 79300,
+   "package_sha256": "40dfc537607b0435847b5d457fb412c68b5f07989dd7731bfe3afe5894e0f36d",
+   "package_bytes": 79780,
    "icon": "skills/command-explainer/assets/icon.png",
    "banner": "skills/command-explainer/assets/banner.png"
   },
@@ -333,8 +311,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/contract-summary.vool.json",
-   "package_sha256": "7f6d50bc9b58d148bbf8ffa8ebf49f098ebb17b9f0dacea471ad2c3c0b63ccd3",
-   "package_bytes": 84496,
+   "package_sha256": "cc243e12bd9422e093e5645b0ce2286dde5753b20ce92dc28155a2f5ae2eca32",
+   "package_bytes": 85140,
    "icon": "skills/contract-summary/assets/icon.png",
    "banner": "skills/contract-summary/assets/banner.png"
   },
@@ -355,8 +333,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/cover-letter-writer.vool.json",
-   "package_sha256": "0df181a92f3c6c380f13ac5fbffba096e2abf330cf7279996f9bb967104872ab",
-   "package_bytes": 86807,
+   "package_sha256": "59ab76ac527a9c74cc8adc0e691abc03058fd016cedfcab3b4edeb30d3b9cf4a",
+   "package_bytes": 87243,
    "icon": "skills/cover-letter-writer/assets/icon.png",
    "banner": "skills/cover-letter-writer/assets/banner.png"
   },
@@ -422,28 +400,6 @@
    "banner": "skills/csv-insights/assets/banner.png"
   },
   {
-   "id": "vool-team/customer-reply",
-   "folder": "skills/customer-reply",
-   "title": "Customer reply",
-   "summary": "Draft a calm, helpful answer to a customer message using only facts you provide.",
-   "version": "1.0.1",
-   "category": "business",
-   "category_label": "Business",
-   "subcategory": "customer-support",
-   "subcategory_label": "Customer support",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [],
-   "uses": [],
-   "package": "packages/customer-reply.vool.json",
-   "package_sha256": "2bdd40927b9dc89df79b1237e83238875327f963bf0b9b3c7e6808e4eb593b12",
-   "package_bytes": 82229,
-   "icon": "skills/customer-reply/assets/icon.png",
-   "banner": "skills/customer-reply/assets/banner.png"
-  },
-  {
    "id": "vool-team/cv-tailor",
    "folder": "skills/cv-tailor",
    "title": "CV tailor",
@@ -460,8 +416,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/cv-tailor.vool.json",
-   "package_sha256": "59fbe1b22c4283c89ee02b6c945fc26f3560197d75f6c9ceaf183351814b57fb",
-   "package_bytes": 78250,
+   "package_sha256": "ab3c8fd4b04847eb7b5f681d553a62e1a291083e28042653675e30f1d3632066",
+   "package_bytes": 78802,
    "icon": "skills/cv-tailor/assets/icon.png",
    "banner": "skills/cv-tailor/assets/banner.png"
   },
@@ -482,40 +438,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/data-cleanup-plan.vool.json",
-   "package_sha256": "f71b65f09d93e10a7c3b68d2a751ca40398cebab5e1bae01b13fe7020988522b",
-   "package_bytes": 74251,
+   "package_sha256": "06de4fbb86c2b1c7dbe8b41657ff24ce80ba8a447529ee5817d5802ef5609f60",
+   "package_bytes": 74955,
    "icon": "skills/data-cleanup-plan/assets/icon.png",
    "banner": "skills/data-cleanup-plan/assets/banner.png"
-  },
-  {
-   "id": "vool-team/day-planner",
-   "folder": "skills/day-planner",
-   "title": "Day planner",
-   "summary": "Build a realistic plan for your day from your calendar, reminders and to-dos.",
-   "version": "1.0.0",
-   "category": "productivity",
-   "category_label": "Productivity",
-   "subcategory": "scheduling",
-   "subcategory_label": "Scheduling",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [
-    "operator.show_agenda",
-    "operator.check_availability",
-    "operator.list_reminders",
-    "operator.propose_calendar_event"
-   ],
-   "uses": [
-    "Calendar",
-    "Reminders"
-   ],
-   "package": "packages/day-planner.vool.json",
-   "package_sha256": "62784f7b5a6dc93901d58a52fea0f645734e5df8ecbd49edd3ad5ce9407f1393",
-   "package_bytes": 531825,
-   "icon": "skills/day-planner/assets/icon.png",
-   "banner": "skills/day-planner/assets/banner.png"
   },
   {
    "id": "vool-team/disk-space-advisor",
@@ -581,7 +507,7 @@
    "id": "vool-team/email-reply",
    "folder": "skills/email-reply",
    "title": "Email reply",
-   "summary": "Draft a clear, polite reply to an email you paste, in the tone you choose.",
+   "summary": "Draft a clear, polite reply to an email or customer message you paste, in the tone you choose.",
    "version": "1.0.1",
    "category": "writing",
    "category_label": "Writing",
@@ -594,8 +520,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/email-reply.vool.json",
-   "package_sha256": "f9bc489f3523b754b155620aa29cd6c5415aac92940db7225562f17f8b53bb14",
-   "package_bytes": 75616,
+   "package_sha256": "ea34a1e06d4a7813d12c4335c5bb6212715d10f3ce2720a5ba4bf2aa700f9ac7",
+   "package_bytes": 79308,
    "icon": "skills/email-reply/assets/icon.png",
    "banner": "skills/email-reply/assets/banner.png"
   },
@@ -645,8 +571,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/folder-tidy-plan.vool.json",
-   "package_sha256": "b04e451acf1041ed3c1b6f2ad1faf27644f17eabda3acc05e5190e847902b213",
-   "package_bytes": 67918,
+   "package_sha256": "8844c9f8ae0a50d2714c49ff8b8755c9bac74383d4042fb6204cd33ebefe863c",
+   "package_bytes": 68390,
    "icon": "skills/folder-tidy-plan/assets/icon.png",
    "banner": "skills/folder-tidy-plan/assets/banner.png"
   },
@@ -667,8 +593,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/follow-up-planner.vool.json",
-   "package_sha256": "71949193318f71554b69cbc11c25ce6ea4db245f62b1d0b189011625b0753a55",
-   "package_bytes": 79195,
+   "package_sha256": "742f3a7518e9af83c5decc26bfd73eaa5b089960412bb774fa2b7502d448fc22",
+   "package_bytes": 79747,
    "icon": "skills/follow-up-planner/assets/icon.png",
    "banner": "skills/follow-up-planner/assets/banner.png"
   },
@@ -689,8 +615,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/formal-request-letter.vool.json",
-   "package_sha256": "2df9d73bbc9e5d693cd4ea5ac52e49baebd11111ba83f25176382b221e13c1dd",
-   "package_bytes": 81909,
+   "package_sha256": "6afbe1e668aae2f4126d09ed6e190b370acc7929806a944c64fa9783d7b3f894",
+   "package_bytes": 82521,
    "icon": "skills/formal-request-letter/assets/icon.png",
    "banner": "skills/formal-request-letter/assets/banner.png"
   },
@@ -711,8 +637,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/formula-helper.vool.json",
-   "package_sha256": "add6c9638e70ed8aed7295d56999d9e2cec1d95e3125c31fe9b5654825b4d823",
-   "package_bytes": 72256,
+   "package_sha256": "48fc769e09fe174f59c4f705fe3ca4c1dbc842afee40413c5d0738709c92df3f",
+   "package_bytes": 72736,
    "icon": "skills/formula-helper/assets/icon.png",
    "banner": "skills/formula-helper/assets/banner.png"
   },
@@ -789,8 +715,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/hacked-account-steps.vool.json",
-   "package_sha256": "3fa98a6eb34819e5d343060074797ae74caf1dbb83de88340954cc5a4ebe52ef",
-   "package_bytes": 82462,
+   "package_sha256": "2c37fe9aa281ceb922ef9050b05d588121dedb57ed418018905a4ab87c3548aa",
+   "package_bytes": 83134,
    "icon": "skills/hacked-account-steps/assets/icon.png",
    "banner": "skills/hacked-account-steps/assets/banner.png"
   },
@@ -798,7 +724,7 @@
    "id": "vool-team/image-prompt-builder",
    "folder": "skills/image-prompt-builder",
    "title": "Image prompt builder",
-   "summary": "Turn your idea into a detailed image prompt with subject, style, light and framing.",
+   "summary": "Turn your idea into a detailed image prompt, and make the picture when you say go.",
    "version": "1.0.1",
    "category": "creative",
    "category_label": "Creative",
@@ -811,8 +737,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/image-prompt-builder.vool.json",
-   "package_sha256": "60ace8d310494b3211a937fbf4433beacf752ca6db297d02775f0cf7a8be1419",
-   "package_bytes": 86205,
+   "package_sha256": "2a1a5b7d4949d40229b67c0e9281c1d408ea344cffa7537fd100f8e1f30eccef",
+   "package_bytes": 89812,
    "icon": "skills/image-prompt-builder/assets/icon.png",
    "banner": "skills/image-prompt-builder/assets/banner.png"
   },
@@ -862,8 +788,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/invoice-writer.vool.json",
-   "package_sha256": "1efb131b8763b60e1267be1695cbaf6a88302347462e030c388e420c2185e266",
-   "package_bytes": 85069,
+   "package_sha256": "a0b82b5ee2e8a826276f92f4d742fcf2a76ae11a56da95615559a6b0f7fcda19",
+   "package_bytes": 85553,
    "icon": "skills/invoice-writer/assets/icon.png",
    "banner": "skills/invoice-writer/assets/banner.png"
   },
@@ -884,8 +810,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/job-post-writer.vool.json",
-   "package_sha256": "7dc4c463e9e5bda37fee625bf35eee387099d21049dbcdf988b368b0ad2331c8",
-   "package_bytes": 80799,
+   "package_sha256": "807206b7222997e8794549fd09c495af74deb3d3f4e7673f1ffeb496c8a9bd6a",
+   "package_bytes": 81287,
    "icon": "skills/job-post-writer/assets/icon.png",
    "banner": "skills/job-post-writer/assets/banner.png"
   },
@@ -906,8 +832,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/meal-plan-from-pantry.vool.json",
-   "package_sha256": "09bebc1444bd58cbac7af128cdc6364e591b59f5362be0c72ae62ed9b62567f6",
-   "package_bytes": 95507,
+   "package_sha256": "cebb90331fbdfdea5d897654b789e782a615e2ac1acf9cb81e8d340424c2aaa6",
+   "package_bytes": 96131,
    "icon": "skills/meal-plan-from-pantry/assets/icon.png",
    "banner": "skills/meal-plan-from-pantry/assets/banner.png"
   },
@@ -928,8 +854,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/meeting-agenda.vool.json",
-   "package_sha256": "2d41f7662b79b5e9178aca32e12e2c60f84de4935fa8003b6b208cadd3d0e513",
-   "package_bytes": 87643,
+   "package_sha256": "985738a8b721827ab42c5a423a41816373b6229d53ebaaaddd2c3089c6bdebc7",
+   "package_bytes": 88163,
    "icon": "skills/meeting-agenda/assets/icon.png",
    "banner": "skills/meeting-agenda/assets/banner.png"
   },
@@ -980,8 +906,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/newsletter-writer.vool.json",
-   "package_sha256": "58b5c05214ef432dcbad323b5d02dfe65b36925d529afb26859075576ea5a50f",
-   "package_bytes": 75209,
+   "package_sha256": "2cd3f054017983fdcabe0986d23cc7bf699ff4779fe271ee2c2f4120091bbf42",
+   "package_bytes": 75677,
    "icon": "skills/newsletter-writer/assets/icon.png",
    "banner": "skills/newsletter-writer/assets/banner.png"
   },
@@ -1031,8 +957,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/notes-to-actions.vool.json",
-   "package_sha256": "36708b24930f5d2a6970c62b1e6d70f507639ddbe412282d99a4c59c02f625f0",
-   "package_bytes": 75297,
+   "package_sha256": "4df10716cf6702a8dddcc4e3037c5213456a7dabe644d20d652abcd20ed45f22",
+   "package_bytes": 76041,
    "icon": "skills/notes-to-actions/assets/icon.png",
    "banner": "skills/notes-to-actions/assets/banner.png"
   },
@@ -1053,41 +979,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/outreach-writer.vool.json",
-   "package_sha256": "e4aa97c1fe1df719f88e8b5df9958f0a3ed308187581e06e2cbc1c8e8de75570",
-   "package_bytes": 87272,
+   "package_sha256": "54743a0594065e9dde2396d48fabf15989dc8f5fcf2557a3625599de7fe25543",
+   "package_bytes": 87892,
    "icon": "skills/outreach-writer/assets/icon.png",
    "banner": "skills/outreach-writer/assets/banner.png"
-  },
-  {
-   "id": "vool-team/page-reader",
-   "folder": "skills/page-reader",
-   "title": "Page reader",
-   "summary": "Open a public page you give and summarise what it says, quoting the parts that matter.",
-   "version": "1.0.0",
-   "category": "automation",
-   "category_label": "Automation",
-   "subcategory": "browser-tasks",
-   "subcategory_label": "Browser tasks",
-   "languages": [
-    "en"
-   ],
-   "needs": [
-    "browser"
-   ],
-   "tools": [
-    "vool-browser.session.open",
-    "vool-browser.inspect",
-    "vool-browser.screenshot",
-    "vool-browser.session.close"
-   ],
-   "uses": [
-    "Browser"
-   ],
-   "package": "packages/page-reader.vool.json",
-   "package_sha256": "cd6e6d094c38eff17ff9486e82bc921767b968aef083a12053374746d118ebd3",
-   "package_bytes": 474043,
-   "icon": "skills/page-reader/assets/icon.png",
-   "banner": "skills/page-reader/assets/banner.png"
   },
   {
    "id": "vool-team/pdf-document-review",
@@ -1148,37 +1043,6 @@
    "banner": "skills/pdf-share-check/assets/banner.png"
   },
   {
-   "id": "vool-team/pdf-study-pack",
-   "folder": "skills/pdf-study-pack",
-   "title": "PDF study pack",
-   "summary": "Turn a PDF chapter or paper into a summary, key terms, flashcards and a self-test.",
-   "version": "1.0.0",
-   "category": "research-learning",
-   "category_label": "Research & learning",
-   "subcategory": "study-tutoring",
-   "subcategory_label": "Study & tutoring",
-   "languages": [
-    "en"
-   ],
-   "needs": [
-    "files"
-   ],
-   "tools": [
-    "pdf.extract_text",
-    "pdf.ocr",
-    "operator.save_note"
-   ],
-   "uses": [
-    "PDF reading",
-    "Notes"
-   ],
-   "package": "packages/pdf-study-pack.vool.json",
-   "package_sha256": "ab20c83fd1272be8fffc6a0d4f6fa6c7e59cd7f9e16e9704373df49a31a169b0",
-   "package_bytes": 509545,
-   "icon": "skills/pdf-study-pack/assets/icon.png",
-   "banner": "skills/pdf-study-pack/assets/banner.png"
-  },
-  {
    "id": "vool-team/phishing-email-check",
    "folder": "skills/phishing-email-check",
    "title": "Phishing email check",
@@ -1222,36 +1086,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/plain-explainer.vool.json",
-   "package_sha256": "038d9a39b84a08fd3e3911aa5cdf3949065e6aa42c677155ff2d6241e5b731f2",
-   "package_bytes": 72162,
+   "package_sha256": "4bd0850b950dea8f1d413a38917e361c88394432e1d0cc3a55539c2dc9d00169",
+   "package_bytes": 73014,
    "icon": "skills/plain-explainer/assets/icon.png",
    "banner": "skills/plain-explainer/assets/banner.png"
-  },
-  {
-   "id": "vool-team/post-image-maker",
-   "folder": "skills/post-image-maker",
-   "title": "Post image maker",
-   "summary": "Make images for your posts from a short brief, one at a time and only when you say go.",
-   "version": "1.0.0",
-   "category": "creative",
-   "category_label": "Creative",
-   "subcategory": "image-prompts",
-   "subcategory_label": "Image prompts",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [
-    "image.generate"
-   ],
-   "uses": [
-    "Images"
-   ],
-   "package": "packages/post-image-maker.vool.json",
-   "package_sha256": "d1d7ca7708d9846d9f081c0025adf9cab004adc2773eb5119a7901a1ada45189",
-   "package_bytes": 576681,
-   "icon": "skills/post-image-maker/assets/icon.png",
-   "banner": "skills/post-image-maker/assets/banner.png"
   },
   {
    "id": "vool-team/price-compare",
@@ -1301,8 +1139,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/price-data-reader.vool.json",
-   "package_sha256": "e50f7c68a59c9ac46d0e404032790d55d6efd6b77d606f688840ecc9370283c7",
-   "package_bytes": 82674,
+   "package_sha256": "9192d1c27f3c108baaf3b8e391d0e6f1863fd8f1180ca45255841b7c9d14143b",
+   "package_bytes": 83498,
    "icon": "skills/price-data-reader/assets/icon.png",
    "banner": "skills/price-data-reader/assets/banner.png"
   },
@@ -1323,8 +1161,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/privacy-checkup.vool.json",
-   "package_sha256": "fb26b3975d8311b28cbc65104313e96bc4b70b982d7ea30ec7e526b280875a0b",
-   "package_bytes": 86829,
+   "package_sha256": "3900f34be98161cdb1be4d5d0442d85ba7136606503ec68ae224785c570f5264",
+   "package_bytes": 87537,
    "icon": "skills/privacy-checkup/assets/icon.png",
    "banner": "skills/privacy-checkup/assets/banner.png"
   },
@@ -1345,41 +1183,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/proofread-plain.vool.json",
-   "package_sha256": "be0f360f05cd1236064c97be9b66adff4028578856df8d5d08c611c3a9bfccbf",
-   "package_bytes": 78389,
+   "package_sha256": "4cd758d2f9c349a41a2e8da085ae1a194deb46a2837f14c0aac5ed5d876d569a",
+   "package_bytes": 78789,
    "icon": "skills/proofread-plain/assets/icon.png",
    "banner": "skills/proofread-plain/assets/banner.png"
-  },
-  {
-   "id": "vool-team/quick-video-edit",
-   "folder": "skills/quick-video-edit",
-   "title": "Quick video edit",
-   "summary": "Trim, crop and reshape a video for a post (square, tall or wide) and export a new copy.",
-   "version": "1.0.0",
-   "category": "creative",
-   "category_label": "Creative",
-   "subcategory": "video-scripts",
-   "subcategory_label": "Video, scripts & editing",
-   "languages": [
-    "en"
-   ],
-   "needs": [],
-   "tools": [
-    "media.open",
-    "media.inspect",
-    "media.edit",
-    "media.undo",
-    "media.redo",
-    "media.export"
-   ],
-   "uses": [
-    "Media Studio"
-   ],
-   "package": "packages/quick-video-edit.vool.json",
-   "package_sha256": "ae906e38b67e0661e8575ecad17cc128d50fa7fd2866d5f5440de9faf2622629",
-   "package_bytes": 606238,
-   "icon": "skills/quick-video-edit/assets/icon.png",
-   "banner": "skills/quick-video-edit/assets/banner.png"
   },
   {
    "id": "vool-team/readme-writer",
@@ -1398,8 +1205,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/readme-writer.vool.json",
-   "package_sha256": "aa480099401f3af7f7760a62031ceaa0c21d605310727f5193bde565a3ecbace",
-   "package_bytes": 70152,
+   "package_sha256": "593a5a008b58ff230bc3f0ba25592fb6d711bc5b72f277a81fd9851f6680625a",
+   "package_bytes": 70764,
    "icon": "skills/readme-writer/assets/icon.png",
    "banner": "skills/readme-writer/assets/banner.png"
   },
@@ -1420,8 +1227,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/receipt-organizer.vool.json",
-   "package_sha256": "ff5cc40e3b520483ad4456c2f0d7ae1ceec8dc5396adcb2e7bf031e4aeead892",
-   "package_bytes": 82338,
+   "package_sha256": "ecae705e6f1f1b0014dd686e592430cc76e595f963b87c9e19b406f32b6a0833",
+   "package_bytes": 82762,
    "icon": "skills/receipt-organizer/assets/icon.png",
    "banner": "skills/receipt-organizer/assets/banner.png"
   },
@@ -1442,42 +1249,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/redact-before-sharing.vool.json",
-   "package_sha256": "ec30b3078599e3b8b0480ba1c15d7f6186241d1950f5b53c0ee4d7f89b3cdab5",
-   "package_bytes": 80203,
+   "package_sha256": "fea7eeba51f5a7f36cd0efdd3294abdee2892fcfc95982dd2de3b6ba8394a7f8",
+   "package_bytes": 80719,
    "icon": "skills/redact-before-sharing/assets/icon.png",
    "banner": "skills/redact-before-sharing/assets/banner.png"
-  },
-  {
-   "id": "vool-team/repo-explainer",
-   "folder": "skills/repo-explainer",
-   "title": "Project explainer",
-   "summary": "Walk through a code project in your workspace and explain how it fits together, with file references. Read-only.",
-   "version": "1.0.0",
-   "category": "coding",
-   "category_label": "Coding",
-   "subcategory": "docs",
-   "subcategory_label": "Docs",
-   "languages": [
-    "en"
-   ],
-   "needs": [
-    "files"
-   ],
-   "tools": [
-    "workspace.identity",
-    "workspace.list_tree",
-    "workspace.read_file",
-    "workspace.search_text",
-    "workspace.symbol_search"
-   ],
-   "uses": [
-    "Project folder"
-   ],
-   "package": "packages/repo-explainer.vool.json",
-   "package_sha256": "117a8c6b2a5117d62cd9cb8e76df7aa997235b16987886568bcfcaab39e5dd1f",
-   "package_bytes": 667053,
-   "icon": "skills/repo-explainer/assets/icon.png",
-   "banner": "skills/repo-explainer/assets/banner.png"
   },
   {
    "id": "vool-team/report-outline",
@@ -1496,8 +1271,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/report-outline.vool.json",
-   "package_sha256": "e24a001859a2f0f22ef995372efd98a3aa6dffd7106e48a9f7d0b20da4a9a91a",
-   "package_bytes": 70618,
+   "package_sha256": "da036528ca3949769e42850cb682397aacfbebd36377f464c334cfca0da460dc",
+   "package_bytes": 71286,
    "icon": "skills/report-outline/assets/icon.png",
    "banner": "skills/report-outline/assets/banner.png"
   },
@@ -1550,8 +1325,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/return-refund-helper.vool.json",
-   "package_sha256": "98215472fe5e2f5a4baf2de913bdfba5f71f7d752eb939d077c7575ea52e7ef2",
-   "package_bytes": 91920,
+   "package_sha256": "8e685275161f00e6ff0b5499074fc1687a16cf7234675e067eafd6eb1b8b0aeb",
+   "package_bytes": 92368,
    "icon": "skills/return-refund-helper/assets/icon.png",
    "banner": "skills/return-refund-helper/assets/banner.png"
   },
@@ -1572,8 +1347,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/scam-check.vool.json",
-   "package_sha256": "2fdcdfb87297b57ceb9dd51f916073079f73c97dc217bafb81bad1f0fd20157e",
-   "package_bytes": 74483,
+   "package_sha256": "691efdc53c4a4a7b01d5aca903933d0bf1041c2cd3a61cbd9c42bee2b508c334",
+   "package_bytes": 75231,
    "icon": "skills/scam-check/assets/icon.png",
    "banner": "skills/scam-check/assets/banner.png"
   },
@@ -1594,8 +1369,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/short-video-script.vool.json",
-   "package_sha256": "c705f62775883dc55666944edd3ac1cecb64179750851e9f25ce0c8b1923d309",
-   "package_bytes": 84846,
+   "package_sha256": "2647a98eab349b1fde704fa56fb40e4a83ac8985fbf469033a57a51db8f546c0",
+   "package_bytes": 85250,
    "icon": "skills/short-video-script/assets/icon.png",
    "banner": "skills/short-video-script/assets/banner.png"
   },
@@ -1616,8 +1391,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/slide-design-plan.vool.json",
-   "package_sha256": "63e720b5129b174feb0655f0a0c1db807df8cac2c3d7941bb51e282fca5e46e9",
-   "package_bytes": 75471,
+   "package_sha256": "7064f9643561420fec5e9d4c504b9aace80753d6d600e957cd26f66a74507302",
+   "package_bytes": 75843,
    "icon": "skills/slide-design-plan/assets/icon.png",
    "banner": "skills/slide-design-plan/assets/banner.png"
   },
@@ -1668,8 +1443,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/social-post-drafts.vool.json",
-   "package_sha256": "bea6cf74b2515b5513ce4bf4fa4d17cfda95b140bc3ff0db9d51aca362a22728",
-   "package_bytes": 78903,
+   "package_sha256": "bb25a191e2e5fc37c685d3d96a419d164cbba52cfb1b530be428c8b9d62481a2",
+   "package_bytes": 79335,
    "icon": "skills/social-post-drafts/assets/icon.png",
    "banner": "skills/social-post-drafts/assets/banner.png"
   },
@@ -1690,8 +1465,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/song-lyrics-starter.vool.json",
-   "package_sha256": "5fd8a3547a126ef414231ad2083fea83e6c4bda7c7681002621281d1fa9193da",
-   "package_bytes": 80860,
+   "package_sha256": "cc85fb6da1e51cd9dd3c1513d91015744dc124a7a7915ec5b050fdef05e1d82c",
+   "package_bytes": 81192,
    "icon": "skills/song-lyrics-starter/assets/icon.png",
    "banner": "skills/song-lyrics-starter/assets/banner.png"
   },
@@ -1712,8 +1487,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/sql-explainer.vool.json",
-   "package_sha256": "6895cdb7f752484676abbf20f64d85e4a50d75faceda147b68595bb8a06823e3",
-   "package_bytes": 81666,
+   "package_sha256": "259885800009901ec4326f700465c9081d502b2d04eceb64767185940441b759",
+   "package_bytes": 82118,
    "icon": "skills/sql-explainer/assets/icon.png",
    "banner": "skills/sql-explainer/assets/banner.png"
   },
@@ -1721,7 +1496,7 @@
    "id": "vool-team/study-flashcards",
    "folder": "skills/study-flashcards",
    "title": "Study flashcards",
-   "summary": "Make question-and-answer flashcards and a short self-test from your study notes.",
+   "summary": "Make flashcards and a self-test from your study notes, or a study pack from a chapter you paste.",
    "version": "1.0.1",
    "category": "research-learning",
    "category_label": "Research & learning",
@@ -1734,8 +1509,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/study-flashcards.vool.json",
-   "package_sha256": "c1fb0e70d9674a0e6ccbe3ad73a43989d334fe75a9a8e9bb300797e8d9312c06",
-   "package_bytes": 77820,
+   "package_sha256": "84cfe3a86195aa8ab19e11dba38c4ec16519d46eceb6d76d6622a7a0f575e5c5",
+   "package_bytes": 82068,
    "icon": "skills/study-flashcards/assets/icon.png",
    "banner": "skills/study-flashcards/assets/banner.png"
   },
@@ -1756,41 +1531,10 @@
    "tools": [],
    "uses": [],
    "package": "packages/tax-notes-organizer.vool.json",
-   "package_sha256": "27002bf204ed8c3c69e1bb45ddebd4dfc917a7546c46e526678158af5fee6aa9",
-   "package_bytes": 72721,
+   "package_sha256": "2329c7494fce5b2f935baa8a64b80535b353295a4da5a4a78a425fd3037c5564",
+   "package_bytes": 73257,
    "icon": "skills/tax-notes-organizer/assets/icon.png",
    "banner": "skills/tax-notes-organizer/assets/banner.png"
-  },
-  {
-   "id": "vool-team/test-failure-helper",
-   "folder": "skills/test-failure-helper",
-   "title": "Test failure helper",
-   "summary": "Run your project's tests, find why one fails and explain the likely cause. Changes no code.",
-   "version": "1.0.0",
-   "category": "coding",
-   "category_label": "Coding",
-   "subcategory": "debugging",
-   "subcategory_label": "Debugging",
-   "languages": [
-    "en"
-   ],
-   "needs": [
-    "files"
-   ],
-   "tools": [
-    "workspace.run_tests",
-    "workspace.read_file",
-    "workspace.search_text",
-    "workspace.git_diff"
-   ],
-   "uses": [
-    "Project folder"
-   ],
-   "package": "packages/test-failure-helper.vool.json",
-   "package_sha256": "cb9b55767c445e2bf355024aee778ce1f17734c7749eb2dd1e9f153e04668cf9",
-   "package_bytes": 656602,
-   "icon": "skills/test-failure-helper/assets/icon.png",
-   "banner": "skills/test-failure-helper/assets/banner.png"
   },
   {
    "id": "vool-team/transaction-explainer",
@@ -1809,8 +1553,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/transaction-explainer.vool.json",
-   "package_sha256": "d7f00c61521c36d0c66ace68dd9a1d7e6abededc6e42f6fd796b91fd03547bf1",
-   "package_bytes": 97796,
+   "package_sha256": "53c6a9dac489dae11a02deab1772bbeaba6f585cdd3fdd1e4d3406c7344f50a6",
+   "package_bytes": 98228,
    "icon": "skills/transaction-explainer/assets/icon.png",
    "banner": "skills/transaction-explainer/assets/banner.png"
   },
@@ -1831,8 +1575,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/translate-keep-tone.vool.json",
-   "package_sha256": "40b31b6a16953afa01000851e4688f83fac3773f2d20a47385bfc61fc9d32811",
-   "package_bytes": 87370,
+   "package_sha256": "9c25e96501d643dd4b35b5fdd27d7e9d84129a7806f98f59d9e15a30498ee6ac",
+   "package_bytes": 87882,
    "icon": "skills/translate-keep-tone/assets/icon.png",
    "banner": "skills/translate-keep-tone/assets/banner.png"
   },
@@ -1853,8 +1597,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/trip-packing-list.vool.json",
-   "package_sha256": "6ed2d5bcbc25cc8217ba8ac79e2abfcec6e4d4acdf4777575eba3c007af906a2",
-   "package_bytes": 74731,
+   "package_sha256": "a8d65eee36e0d6014fcc9fd9dca0fcd102b3151fb6ac931cbb1262d925cb1259",
+   "package_bytes": 75331,
    "icon": "skills/trip-packing-list/assets/icon.png",
    "banner": "skills/trip-packing-list/assets/banner.png"
   },
@@ -1894,7 +1638,7 @@
    "id": "vool-team/weekly-plan",
    "folder": "skills/weekly-plan",
    "title": "Weekly plan",
-   "summary": "Turn your task list and fixed commitments into a realistic plan for the week.",
+   "summary": "Turn your tasks and fixed commitments into a realistic plan for the week, or for today.",
    "version": "1.0.2",
    "category": "productivity",
    "category_label": "Productivity",
@@ -1907,8 +1651,8 @@
    "tools": [],
    "uses": [],
    "package": "packages/weekly-plan.vool.json",
-   "package_sha256": "be6811cf1345d9689a0bb883a86f634721bb169ec21bcc1ead68494f5b19aad4",
-   "package_bytes": 75908,
+   "package_sha256": "5abe04e37f451cf41d79a2083c4f31f56864200d6157ab82583d59c61d50a30e",
+   "package_bytes": 81058,
    "icon": "skills/weekly-plan/assets/icon.png",
    "banner": "skills/weekly-plan/assets/banner.png"
   },

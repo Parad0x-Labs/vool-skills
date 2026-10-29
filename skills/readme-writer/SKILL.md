@@ -1,6 +1,7 @@
 ---
 name: readme-writer
 description: Drafts a README for a project from the purpose, setup steps and usage the user describes. Use when the user wants their project's front page written clearly.
+triggers: [write a readme, readme for my project, readme file, github readme, readme section, project front page, document my project, readme, installation instructions, setup instructions, getting started section, how to run my project, docs for my repo, install instructions, project docs, repo page, usage instructions, documentation for my project, docs, repo, repository, github, setup guide, run it locally, running locally, install steps, contributors]
 license: MIT
 ---
 

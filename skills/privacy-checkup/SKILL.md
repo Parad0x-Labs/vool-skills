@@ -1,6 +1,7 @@
 ---
 name: privacy-checkup
 description: Walk through the privacy settings that matter on your phone and computer, step by step, at your pace. Use when the user wants to review or tighten privacy settings such as location, microphone, camera, ad tracking, backups or lock screen.
+triggers: [privacy check, review my privacy settings, stop apps tracking me, check app permissions, camera and microphone permissions, make my phone more private, lock screen settings, privacy, location tracking, ad tracking, app permissions, privacy settings, screen lock, stop tracking me, more private, phone settings, laptop settings, microphone access, camera access, who can see my location, privacy review, permissions, microphone, apps listening, share my location, privacy on my phone, tablet settings, browser settings]
 license: MIT
 ---
 

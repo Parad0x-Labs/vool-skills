@@ -1,6 +1,7 @@
 ---
 name: newsletter-writer
 description: "Turn this week's updates into a short, readable newsletter issue with a clear subject line. Use when the user has a list of updates and wants them shaped into a plain-text newsletter issue."
+triggers: [newsletter, email newsletter, newsletter for my subscribers, turn updates into a newsletter, monthly newsletter draft, newsletter subject line, community update, monthly digest, bulletin, subscribers, members update, monthly update email, club newsletter, mailing list update, newsletter issue, weekly update email, update for our members]
 license: MIT
 ---
 

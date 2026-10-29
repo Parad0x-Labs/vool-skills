@@ -1,6 +1,7 @@
 ---
 name: brand-kit-ideas
 description: "Get name, colour, type and mood ideas for your brand or project from a short brief. Use when the user is naming or visually shaping a new project and wants a few distinct directions to react to."
+triggers: [brand name ideas, business name ideas, name ideas for my project, colour palette ideas, visual identity ideas, branding for my new business, logo and colour ideas, branding, logo, logos, rebrand, tagline, slogan, moodboard, typography, colour scheme, color scheme, color palette, brand identity, brand colours, look and feel, name my business, brand name, shop name, logo ideas, visual style, fonts for my brand, brand look]
 license: MIT
 ---
 

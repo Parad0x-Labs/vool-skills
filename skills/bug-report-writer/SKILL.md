@@ -1,6 +1,7 @@
 ---
 name: bug-report-writer
 description: Turns a problem description and error output into a clear, reproducible bug report. Use when the user has a bug and needs to report it where someone can act on it.
+triggers: [write a bug report, file a bug, report this crash, open an issue for this bug, turn this error into a bug report, tell the developer about this bug, bug, bugs, glitch, glitches, crashes, crashing, freezes, steps to reproduce, issue tracker, report a problem, keeps crashing, bug ticket, issue report, report it to the developers, tell the devs, console error, stopped working, app keeps crashing, game crashes, website broken, broken feature]
 license: MIT
 ---
 

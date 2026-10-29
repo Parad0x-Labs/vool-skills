@@ -1,6 +1,7 @@
 ---
 name: job-post-writer
 description: Writes a fair, clear job post from role details the user gives. Use when the user needs to advertise a role and wants wording that welcomes the widest set of qualified people.
+triggers: [write a job advert, write a job posting, write a job description, advertise a role, post a vacancy, we are hiring, help me word a vacancy, recruit, recruiting, job listing, inclusive job ad, role description, job ad, advertise a job, advertise a vacancy, fill a vacancy, staff wanted, looking to hire, help wanted, advertise, part time role, hiring for]
 license: MIT
 ---
 

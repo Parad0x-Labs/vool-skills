@@ -1,6 +1,7 @@
 ---
 name: claim-check
 description: Breaks a pasted claim or article into checkable statements and lists what evidence would settle each one. Use when the user wants to see what to verify in something they read before believing or sharing it.
+triggers: [fact check this, fact check this article, is this claim true, can i trust this article, verify this claim, check the facts in this, red flags in this article, help me pick this apart, misinformation, disinformation, rumour, rumor, hoax, debunk, viral post, fake news, true or false, believable, claims in this post, statistic in this article]
 license: MIT
 ---
 

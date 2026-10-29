@@ -1,6 +1,7 @@
 ---
 name: budget-from-spending
 description: Sorts pasted spending lines into categories, totals them with the arithmetic shown, and drafts a simple monthly budget as a starting point. Use when the user pastes a list of expenses and wants categories, totals or a basic budget.
+triggers: [sort out my spending, where does my money go, add up my expenses, budget from my spending, make a monthly budget, breakdown of my spending, categorise my expenses, how much am i spending, why do i overspend, budget, budgeting, outgoings, overspend, overspending, monthly spending, spending habits, cut back on spending, save more money, money left over, where my money went, monthly budget, weekly budget, spending plan, group my spending, spending breakdown, savings goal, cost of living]
 license: MIT
 ---
 

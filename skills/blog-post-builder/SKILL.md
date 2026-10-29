@@ -1,6 +1,7 @@
 ---
 name: blog-post-builder
 description: "Turn your points and notes into a structured blog post: outline first, then a full draft in your voice. Use when the user wants a blog post drafted from their own notes and points."
+triggers: [write a blog post, blog post from my notes, outline for a blog post, turn my notes into a blog post, write an article from my notes, turn these points into an article, first blog post, draft an article from my notes, blog, blogging, blogger, longform, blog entry, longer piece, personal essay, post for my website, article for our website, feature article, write an article, story for our website, write about my experience]
 license: MIT
 ---
 
