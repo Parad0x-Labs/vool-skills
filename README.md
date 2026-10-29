@@ -1,16 +1,61 @@
 # VOOL skills
 
-Skills for VOOL, written by the VOOL team. A skill is a page of written instructions that teaches VOOL one kind
-of task, such as answering an email, planning a week or checking a message for a scam. Skills hold text only:
-no programs, scripts or downloads.
+Skills for [VOOL](https://github.com/Parad0x-Labs/vool), written by the VOOL team. A skill is a page of written
+instructions that teaches VOOL one kind of task, such as answering an email, planning a week or checking a
+message for a scam. Skills hold text only: no programs, scripts or downloads.
+
+Skills teach; plugins add tools. Plugins live in their own repository,
+[Parad0x-Labs/vool-plugins](https://github.com/Parad0x-Labs/vool-plugins).
 
 A skill never changes VOOL's own settings, spending limits or approvals. Skills that use VOOL tools (email,
 notes, files, the browser and others) still go through those tools' own settings and approvals.
 
-In VOOL you can open this repository from Skills & Plugins by pasting its address into the search box. Adding a
-skill from GitHub there needs an Eyebrow key for its scan, and skills that use VOOL tools can't be added that way.
+**[Add a skill to your VOOL](#add-a-skill-to-your-vool) · [Skills (70)](#skills-70) ·
+[Make a skill](#make-a-skill) · [Contributing](CONTRIBUTING.md) · [For coding agents](AGENTS.md)**
+
+## Add a skill to your VOOL
+
+There are two ways. The first needs an Eyebrow key; the second needs nothing extra.
+
+### From Skills & Plugins
+
+1. In the VOOL sidebar, open **Home > Skills & Plugins**. **Browse** lists VOOL's own skills first. These
+   are the text-only skills below, in the version that came with your VOOL.
+2. Open a skill. Before anything is installed, VOOL sends the skill's text to Eyebrow, a separate scanning
+   service, for one scan. Add your Eyebrow key in **Settings > API Keys** first. Without it, VOOL says
+   *Add your Eyebrow key in Settings → API Keys first.* Each scan uses your Eyebrow allowance.
+3. Press **Scan with Eyebrow**. **Run local check** is a free check on your own computer. It can run
+   beside the scan, but it does not replace it.
+4. Read the report, then press **Accept and enable**.
+
+To see this repository as it is today, paste `https://github.com/Parad0x-Labs/vool-skills` into the search
+box (*Search skills, plugins or paste a GitHub repository…*) and press Enter. Open a skill, press **Check
+compatibility**, then **Download and scan**.
+
+Skills that use VOOL tools (the ones with a tool in the **Uses** column) can't be added from GitHub: VOOL
+shows *This skill declares a host-specific tool list that needs a VOOL mapping.* VOOL lists them in the
+**Skill Codex** tab ([Skills and plugins](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skills-and-plugins.md)),
+or add them as a zip, below.
+
+### As a zip, in chat
+
+This works for every skill here, with or without tools, and needs no key.
+
+1. Download the skill's two files, `SKILL.md` and `LICENSE`, into a folder named after the skill, for
+   example `inbox-triage/`.
+2. Zip that folder (`zip -r inbox-triage.zip inbox-triage`). The zip may hold only `SKILL.md`, a `LICENSE`
+   and a `README.md` or `README.txt`. VOOL refuses any other file.
+3. In a VOOL chat, attach the zip and say `import this skill`. VOOL shows you the skill first. It is not on
+   yet.
+4. Say `turn it on` and click **Allow once**. VOOL replies *Added the skill "Inbox triage". It is on from
+   your next message.*
+
+More on this in [Make your own skill](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/make-your-own-skill.md)
+(ships with VOOL 0.7.7), steps 8 and 9.
 
 ## Skills (70)
+
+51 skills are text only. 19 use VOOL tools; the **Uses** column names them.
 
 ### Writing
 
@@ -137,12 +182,54 @@ skill from GitHub there needs an Eyebrow key for its scan, and skills that use V
 | [Scam check](skills/scam-check/SKILL.md) | Paste a message, offer or call script and get the warning signs and what to do next. | Text only |
 | [What VOOL knows](skills/what-vool-knows/SKILL.md) | See what VOOL remembers about you, in plain words, and how to remove anything you want gone. | What VOOL remembers |
 
+## Make a skill
+
+You don't need this repository to make a skill for yourself. In a VOOL chat, say *make me a skill that ...*
+and VOOL writes it with you: see
+[Make your own skill](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/make-your-own-skill.md)
+(ships with VOOL 0.7.7).
+
+For developers and coding agents who write `SKILL.md` files directly, VOOL's SDK does the work. From a VOOL
+source checkout, in a folder of your own:
+
+```sh
+export VOOL_SRC=/full/path/to/vool
+PYTHONPATH="$VOOL_SRC" python -m tools.community_skills new meeting-actions --name meeting-actions --author "Your Name"
+```
+
+This writes `meeting-actions/SKILL.md` and `meeting-actions/LICENSE`, and `meeting-actions.metadata.json`
+beside the folder. Replace every line that says REPLACE with your own description, trigger phrases and
+steps. Then check that VOOL picks the skill for the asks you mean, and leaves it alone otherwise:
+
+```sh
+PYTHONPATH="$VOOL_SRC" python -m tools.community_skills try meeting-actions \
+  --pick "here are my meeting notes, what are the action items?" \
+  --pick "turn these meeting notes into a to-do list" \
+  --not-pick "write a poem about autumn"
+```
+
+`try` runs in a throwaway profile it makes and removes itself, never your real VOOL. It prints `ok` or
+`FAIL` for each ask and ends with `"status":"passed"` when every ask behaved. `new`, `try`, `zip` and `call`
+ship with VOOL 0.7.7; `init`, `lint`, `pack`, `check` and `submission-link` are in VOOL today.
+
+Read next:
+
+- [Build and test a skill](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/build-and-test-a-skill.md)
+  (ships with VOOL 0.7.7): the `SKILL.md` format, how picking works, installing and testing in your own VOOL.
+- [Skill tools and limits](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md)
+  (ships with VOOL 0.7.7): which tools a skill may name, what Manual and Auto mode ask for, and every
+  refusal a skill can run into.
+- [CONTRIBUTING.md](CONTRIBUTING.md): every step from a new skill to a pull request here.
+- [AGENTS.md](AGENTS.md): the short version for a coding agent.
+
 ## What is in this repository
 
-- `skills/<name>/SKILL.md`: the skill's instructions, with its licence beside it.
-- `packages/<name>.vool.json`: the same skill packed for the Skill Codex. These files are exact bytes; don't reformat them.
+- `skills/<name>/SKILL.md`: the skill's instructions, with its `LICENSE` beside it. Nothing else goes in a
+  skill folder.
+- `packages/<name>.vool.json`: the same skill packed for the Skill Codex, VOOL's shared skill library. These
+  files are exact bytes; don't reformat them.
 - `index.json`: the list above as data, with each package's checksum.
 
 ## Licence
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). Each skill carries its own MIT `LICENSE` file.
