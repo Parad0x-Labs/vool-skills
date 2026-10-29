@@ -9,6 +9,11 @@ notes, files, the browser and others) still go through those tools' own settings
 
 In VOOL you can open this repository from Skills & Plugins by pasting its address into the search box. Adding a
 skill from GitHub there needs an Eyebrow key for its scan, and skills that use VOOL tools can't be added that way.
+Planned for VOOL 0.8, not released yet: skills from GitHub are checked on your device, with no key needed, and
+a scanner plugin can add a second check.
+
+Need code or a service connection instead of written instructions? That is a plugin:
+[Parad0x-Labs/vool-plugins](https://github.com/Parad0x-Labs/vool-plugins). Plugins are planned for 0.8.
 
 ## Skills (79)
 
@@ -151,6 +156,12 @@ skill from GitHub there needs an Eyebrow key for its scan, and skills that use V
 - `skills/<name>/SKILL.md`: the skill's instructions, with its licence beside it.
 - `packages/<name>.vool.json`: the same skill packed for the Skill Codex. These files are exact bytes; don't reformat them.
 - `index.json`: the list above as data, with each package's checksum.
+- `skills/<name>/assets/`: the skill's icon (512×512) and banner (1500×500).
+
+## Write or improve a skill
+
+- [CONTRIBUTING.md](CONTRIBUTING.md): the SKILL.md format, house style and how to send a skill.
+- [AGENTS.md](AGENTS.md): short rules for AI coding agents working here.
 
 ## Licence
 
