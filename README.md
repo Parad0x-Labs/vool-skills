@@ -60,7 +60,7 @@ This works for every skill here, with or without tools, and needs no key.
    your next message.*
 
 More on this in [Make your own skill](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/make-your-own-skill.md)
-(ships with VOOL 0.7.7), steps 8 and 9.
+(planned for VOOL 0.7.8, not released yet), steps 8 and 9.
 
 ## Skills (70)
 
@@ -196,7 +196,7 @@ More on this in [Make your own skill](https://github.com/Parad0x-Labs/vool/blob/
 You don't need this repository to make a skill for yourself. In a VOOL chat, say *make me a skill that ...*
 and VOOL writes it with you: see
 [Make your own skill](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/make-your-own-skill.md)
-(ships with VOOL 0.7.7).
+(planned for VOOL 0.7.8, not released yet).
 
 For developers and coding agents who write `SKILL.md` files directly, VOOL's SDK does the work. From a VOOL
 source checkout, in a folder of your own:
@@ -221,14 +221,15 @@ PYTHONPATH="$VOOL_SRC" python -m tools.community_skills try meeting-actions \
 
 `try` runs in a throwaway profile it makes and removes itself, never your real VOOL. It prints `ok` or
 `FAIL` for each ask and ends with `"status":"passed"` when every ask behaved. `new`, `try`, `zip` and `call`
-ship with VOOL 0.7.7; `init`, `lint`, `pack`, `check` and `submission-link` are in VOOL today.
+are planned for VOOL 0.7.8, not released yet. On VOOL 0.7.7 today, use `init`, `lint`, `pack`, `check`
+and `submission-link`; [CONTRIBUTING.md](CONTRIBUTING.md#on-vool-077-today) shows the steps.
 
 Read next:
 
 - [Build and test a skill](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/build-and-test-a-skill.md)
-  (ships with VOOL 0.7.7): the `SKILL.md` format, how picking works, installing and testing in your own VOOL.
+  (planned for VOOL 0.7.8, not released yet): the `SKILL.md` format, how picking works, installing and testing in your own VOOL.
 - [Skill tools and limits](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md)
-  (ships with VOOL 0.7.7): which tools a skill may name, what Manual and Auto mode ask for, and every
+  (planned for VOOL 0.7.8, not released yet): which tools a skill may name, what Manual and Auto mode ask for, and every
   refusal a skill can run into.
 - [CONTRIBUTING.md](CONTRIBUTING.md): every step from a new skill to a pull request here.
 - [AGENTS.md](AGENTS.md): the short version for a coding agent.

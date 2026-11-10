@@ -16,7 +16,7 @@ version is in [AGENTS.md](AGENTS.md).
 - **A skill never grants anything.** It cannot grant a permission, approve an action, raise a spending
   limit or turn a setting on. What a skill can and can never do is in
   [Skill tools and limits](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md#what-a-skill-can-and-can-never-do)
-  (ships with VOOL 0.7.7).
+  (planned for VOOL 0.7.8, not released yet).
 - Never put a key, password, recovery phrase or private file in a skill, an issue or a pull request. Pull
   requests are public from the first push.
 
@@ -24,13 +24,36 @@ version is in [AGENTS.md](AGENTS.md).
 
 - A VOOL source checkout with its Python packages installed (Python 3.11 or newer). See *Development
   setup* in VOOL's [CONTRIBUTING.md](https://github.com/Parad0x-Labs/vool/blob/main/CONTRIBUTING.md).
-- The commands `new`, `try`, `zip` and `call` ship with VOOL 0.7.7. `init`, `lint`, `pack`, `check` and
-  `submission-link` are in VOOL today. With an earlier checkout: copy a skill folder from `skills/`
-  instead of `new`, zip it with `zip -r` instead of `zip`, test in your own VOOL
-  ([step 7](#7-install-it-in-your-own-vool)) instead of `try`, and write `metadata.json` for step 8 by
-  hand, as VOOL's [author guide](https://github.com/Parad0x-Labs/vool/blob/main/docs/registry/AUTHOR-GUIDE.md#sdk-packaging-with-real-source-provenance)
-  shows.
+- The commands `new`, `try`, `zip` and `call` are planned for VOOL 0.7.8, not released yet. On VOOL 0.7.7
+  they fail with `invalid choice`; use [On VOOL 0.7.7 today](#on-vool-077-today) below. `init`, `lint`,
+  `pack`, `check` and `submission-link` are in VOOL today.
 - A GitHub account, for the pull request.
+
+### On VOOL 0.7.7 today
+
+The guides linked as *planned for VOOL 0.7.8* are not on VOOL's main branch yet, and `new`, `try`, `zip`
+and `call` are not in 0.7.7. This path works on 0.7.7 (checked on 10 Nov 2026):
+
+1. In the VOOL checkout, install its Python packages: `uv sync` (or `pip install -e .`). Without them,
+   `lint` reports a skill with `allowed-tools` as `tool contracts are unavailable`. That is a missing
+   package, not a problem with your skill.
+2. Copy a skill folder from `skills/` that is close to yours (for example `skills/email-reply/`) to a new
+   folder named after your skill. Keep `SKILL.md` and `LICENSE`; leave out `assets/`. Edit `SKILL.md` and
+   put your name and the year in `LICENSE`.
+3. Write `<name>.metadata.json` by hand, as the
+   [author guide](https://github.com/Parad0x-Labs/vool/blob/main/docs/registry/AUTHOR-GUIDE.md#sdk-packaging-with-real-source-provenance)
+   shows, then run `init` with it: `PYTHONPATH="$VOOL_SRC" python -m tools.community_skills init <name>-draft
+   --metadata <name>.metadata.json --license-file <name>/LICENSE`. Copy your `SKILL.md` into the draft's
+   `skills/<name>/` folder.
+4. `lint <name>-draft --scratch <empty folder>`, then `pack <name>-draft --scratch <empty folder> --output
+   <name>.vool.json`, then `check <name>.vool.json --scratch <empty folder>`. Each one ends with
+   `"status":"preflight_passed"`. `"admitted":false` in the output is expected: only the Skill Codex
+   admits a skill.
+5. For tool names: `lint` checks every name in `allowed-tools` against the tools your VOOL has. The skills
+   in this repository that use tools (their `tools` in `index.json`) show names that work.
+6. Zip the folder from step 2 by hand (`zip -r <name>.zip <name>`; only `SKILL.md`, `LICENSE` and a
+   README may be inside) and add it in your own VOOL ([step 7](#7-install-it-in-your-own-vool)). This is
+   also how you test whether VOOL picks it: ask in new words and see if the answer follows your steps.
 
 Set these once and keep the same shell for every step:
 
@@ -96,12 +119,12 @@ Frontmatter keys VOOL reads:
 | `description` | yes | What the skill does, then a sentence that starts "Use when ...", in specific words. VOOL compares it with the person's message. It may not be empty. Every skill here follows this pattern. |
 | `triggers` | recommended | Short phrases (2 to 4 words) a person really types when they want this skill. A YAML list. |
 | `license` | yes, here | `MIT`. The full text goes in the `LICENSE` file beside `SKILL.md`. |
-| `allowed-tools` | no | The VOOL tools the skill may use on the turns it is picked. Every name must be a real VOOL tool, from [the tool table](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md#the-tools-a-skill-may-name) (ships with VOOL 0.7.7). It narrows what VOOL offers; it never grants a permission. |
+| `allowed-tools` | no | The VOOL tools the skill may use on the turns it is picked. Every name must be a real VOOL tool, from [the tool table](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md#the-tools-a-skill-may-name) (planned for VOOL 0.7.8, not released yet). It narrows what VOOL offers; it never grants a permission. |
 | `permissions` | no | A statement of the permission ids the tools in `allowed-tools` need. It grants nothing. Leave it out unless you want the validator to check it. |
 
 How VOOL picks a skill, and why one shared word is not enough, is in section 6 of
 [Build and test a skill](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/build-and-test-a-skill.md#6-how-picking-works)
-(ships with VOOL 0.7.7).
+(planned for VOOL 0.7.8, not released yet).
 
 ## How the skills here are written
 
@@ -182,7 +205,7 @@ Write so the answer has a visible marker (a fixed first heading, a fixed last li
 at a glance whether the skill was used.
 
 If the skill uses VOOL tools, add `allowed-tools` with names from
-[the tool table](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md#the-tools-a-skill-may-name) (ships with VOOL 0.7.7).
+[the tool table](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md#the-tools-a-skill-may-name) (planned for VOOL 0.7.8, not released yet).
 Write the instructions so the answer still makes sense when the person says no to a tool call.
 
 ### 4. Try it
@@ -228,7 +251,7 @@ PYTHONPATH="$VOOL_SRC" python -m tools.community_skills call email.read --args '
 uses. `--mode auto` checks Auto mode, and `--approve` clicks **Allow once** for you and calls again. What
 each reply means is in
 [Refusals and what they mean](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md#refusals-and-what-they-mean)
-(ships with VOOL 0.7.7).
+(planned for VOOL 0.7.8, not released yet).
 
 ### 6. Write the zip
 

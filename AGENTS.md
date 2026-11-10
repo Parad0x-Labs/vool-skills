@@ -31,7 +31,7 @@ A skill can:
 
 - add instructions to the turns where it is picked;
 - narrow the tools VOOL offers on those turns with `allowed-tools`, using only real tool names from
-  [the tool table](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md#the-tools-a-skill-may-name) (ships with VOOL 0.7.7);
+  [the tool table](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md#the-tools-a-skill-may-name) (planned for VOOL 0.7.8, not released yet);
 - ask VOOL to use one of those tools. Every call goes through the same Manual/Auto permission check as any
   other call, and the person may say no.
 
@@ -47,7 +47,7 @@ A skill can never:
 
 The full list, what Manual and Auto mode ask for, and every refusal a skill can run into are in
 [Skill tools and limits](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/skill-tools-and-limits.md)
-(ships with VOOL 0.7.7). Read it before you write `allowed-tools`.
+(planned for VOOL 0.7.8, not released yet). Read it before you write `allowed-tools`.
 
 Content rules (the Skill Codex's checks refuse a skill that breaks one):
 
@@ -62,7 +62,10 @@ Content rules (the Skill Codex's checks refuse a skill that breaks one):
 ## Commands
 
 From a VOOL source checkout, in a folder of your own outside both repositories. `new`, `try`, `zip` and
-`call` ship with VOOL 0.7.7; `init`, `lint`, `pack`, `check` and `submission-link` are in VOOL today.
+`call` are planned for VOOL 0.7.8, not released yet: on VOOL 0.7.7 they fail with `invalid choice`. On 0.7.7,
+follow [CONTRIBUTING.md, On VOOL 0.7.7 today](CONTRIBUTING.md#on-vool-077-today) instead of the block below.
+Install VOOL's Python packages in the checkout first (`uv sync` there): without them `lint` reports a tool skill as
+`tool contracts are unavailable`, which is a missing-package problem, not a problem with your skill.
 
 ```sh
 export VOOL_SRC=/full/path/to/vool
@@ -113,7 +116,7 @@ Report the exact commands and their full output. A pass on one ask is not proof 
 ## More
 
 - [Build and test a skill](https://github.com/Parad0x-Labs/vool/blob/main/docs/guides/build-and-test-a-skill.md)
-  (ships with VOOL 0.7.7): the format, how picking works, install routes, update and remove.
+  (planned for VOOL 0.7.8, not released yet): the format, how picking works, install routes, update and remove.
 - [Author guide](https://github.com/Parad0x-Labs/vool/blob/main/docs/registry/AUTHOR-GUIDE.md): packages,
   metadata and the Skill Codex.
 - Plugins (new tools, not instructions) go to
